@@ -9,6 +9,7 @@ It takes live satellite and reanalysis data, checks every record, and runs two o
 ![DuckDB](https://img.shields.io/badge/warehouse-DuckDB-FFF000?logo=duckdb&logoColor=black)
 ![Tests](https://img.shields.io/badge/tests-205%20passing-0ca30c)
 ![Data](https://img.shields.io/badge/data-Copernicus%20%C2%B7%20ECMWF%20%C2%B7%20HCP-6da7ec)
+![License](https://img.shields.io/badge/license-MIT-8d8a84)
 
 ![The basin story: the 2022 drought replayed month by month](docs/screenshots/06_story_drought_year.png)
 
@@ -161,8 +162,15 @@ There are 205 tests (`uv run pytest`). They cover:
 - **"Hours of water per day"** is an equivalent of the share of demand served. It is not a measured supply schedule.
 - **Problem severity and stress scores** are an editorial synthesis of the cited evidence, not an official index.
 
+## Licence
+
+- **Code:** [MIT](LICENSE).
+- **Knowledge base & report** (`data/reference/bmk_knowledge_base.json`, `docs/REPORT.md`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Each entry cites its original source.
+- **Province boundaries** (`data/reference/bmk_provinces.geojson`): [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/), © OpenStreetMap contributors, via geoBoundaries.
+- **Open-Meteo data** (GloFAS, ECMWF, ERA5) is fetched at run time under CC BY 4.0 and not redistributed here.
+
 ## Author
 
-**[@tahelhor](https://github.com/tahelhor)**
+**Taha EL HOR** · [@tahelhor](https://github.com/tahelhor)
 
 Built with Python, Polars, DuckDB, Pydantic, PuLP/HiGHS, Streamlit, Plotly and Three.js.

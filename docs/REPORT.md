@@ -1,6 +1,6 @@
 # Water stress in Béni Mellal–Khénifra: diagnosis and solution assessment
 
-*Atlas Hydro-DSS analytical report · data as of 17 October 2026*
+*Atlas Hydro-DSS analytical report · Taha EL HOR · data as of 17 October 2026*
 
 ---
 
@@ -142,3 +142,7 @@ The full list of 114 sources is in `data/reference/bmk_knowledge_base.json` and 
 - [S44] Hespress, *Six days without water in Moulay Bouazza*, Aug 2026 · [S51] Hespress, *Khouribga et Oued Zem : coupures d'eau*, Aug 2025
 - [S72] Hammani et al., *Cahiers Agricultures* (Tadla wells) · [S76] Médias24, emergency drinking-water plan, Mar 2022 · [S77] Médias24, agricultural water in Béni Mellal-Khénifra, Dec 2023
 - [S87] Boularbah et al., *Irrigation & Drainage*, 2019 · [S88] Molle & Tanouti, *Agricultural Water Management*, 2017 · [S89] TelQuel, minister Baraka on network losses, Jun 2026
+
+---
+
+*© 2026 Taha EL HOR. This report is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*

@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2026 Taha EL HOR
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+Data and content not covered by the MIT licence above
+--------------------------------------------------------------------------------
+
+The MIT licence applies to the source code. The following files keep their own
+licences:
+
+* data/reference/bmk_provinces.geojson
+  Province boundaries from geoBoundaries (gbOpen, MAR ADM2), derived from
+  OpenStreetMap / Wambacher. Licensed under the Open Database License (ODbL) 1.0:
+  https://opendatacommons.org/licenses/odbl/1-0/
+  © OpenStreetMap contributors.
+
+* data/reference/bmk_knowledge_base.json and docs/REPORT.md
+  Compilation and bilingual summaries by Taha EL HOR, licensed under Creative
+  Commons Attribution 4.0 International (CC BY 4.0):
+  https://creativecommons.org/licenses/by/4.0/
+  Each entry cites its original source (press, institutional and academic
+  publications); those sources remain the property of their respective owners.
+
+* Data retrieved at run time from Open-Meteo (Copernicus GloFAS v4, ECMWF,
+  ERA5) is provided under CC BY 4.0 by Open-Meteo (https://open-meteo.com/) and
+  the respective Copernicus / ECMWF terms. It is not redistributed in this
+  repository; attribution is shown in the application.

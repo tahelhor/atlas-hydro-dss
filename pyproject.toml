@@ -3,6 +3,8 @@ name = "atlas-hydro-dss"
 version = "0.1.0"
 description = "Prescriptive hydro-climate decision support system for the Oum Er-Rbia basin (Morocco)"
 readme = "README.md"
+license = "MIT"
+authors = [{ name = "Taha EL HOR" }]
 requires-python = ">=3.12,<3.14"
 dependencies = [
     "polars>=1.20",
