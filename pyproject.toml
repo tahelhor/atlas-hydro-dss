@@ -1,0 +1,31 @@
+[project]
+name = "atlas-hydro-dss"
+version = "0.1.0"
+description = "Prescriptive hydro-climate decision support system for the Oum Er-Rbia basin (Morocco)"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "polars>=1.20",
+    "duckdb>=1.1",
+    "httpx>=0.27",
+    "pydantic>=2.8",
+    "pulp[highs]>=4.0",  # PuLP 4 no longer bundles CBC; HiGHS solves in-process
+    "streamlit>=1.40",
+    "plotly>=5.24",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+markers = [
+    "warehouse: integration checks against the live data/hydro_warehouse.duckdb (skipped if absent)",
+]

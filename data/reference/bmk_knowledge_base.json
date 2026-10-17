@@ -1,0 +1,2329 @@
+{
+  "compiled_on": "2026-10-17",
+  "disclaimer_en": "Compiled from Moroccan press, institutional and academic sources on 2026-10-17. Figures are as reported by each source and dated; when only the month of publication is known, the 1st of the month is used. Stress scores are an editorial synthesis of the cited evidence, not an official index. Arabic-language sources were paraphrased.",
+  "disclaimer_fr": "Compilé le 17/10/2026 à partir de sources de presse, institutionnelles et académiques marocaines. Les chiffres sont ceux rapportés et datés par chaque source ; lorsque seul le mois de publication est connu, le 1er du mois est retenu. Les scores de stress sont une synthèse éditoriale des sources citées, pas un indice officiel. Les sources en arabe ont été paraphrasées.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Barrages au Maroc : les dernières pluies reboostent les réserves en eau",
+      "publisher": "Le Matin",
+      "url": "https://lematin.ma/nation/barrages-au-maroc-les-dernieres-pluies-reboostent-les-reserves-en-eau/370141",
+      "published": "2026-10-12",
+      "language": "fr"
+    },
+    {
+      "id": "S2",
+      "title": "Summer chips away at dam recovery, with 1.46 billion m³ drawn since May",
+      "publisher": "Le360",
+      "url": "https://en.le360.ma/economy/summer-chips-away-at-dam-recovery-with-146-billion-m-drawn-since-may_M2VPPTNJCREG5CWB3RUUNE2YJY/",
+      "published": "2026-09-02",
+      "language": "en"
+    },
+    {
+      "id": "S3",
+      "title": "Morocco dam reserves: Al Massira at 40.7% vs 3.38% a year earlier",
+      "publisher": "Hespress English",
+      "url": "https://en.hespress.com/143853-143853.html",
+      "published": "2026-08-14",
+      "language": "en"
+    },
+    {
+      "id": "S4",
+      "title": "De 3,9 à 41,3% : voici comment le barrage Al Massira a décuplé son stock en un an",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/societe/de-39-a-413-en-chiffres-voici-comment-le-barrage-al-massira-a-decuple-son-stock-en-un-an_F6EUM2YPIVHKTGD2FFR3KOQSII/",
+      "published": "2026-07-25",
+      "language": "fr"
+    },
+    {
+      "id": "S5",
+      "title": "Pénurie d'eau : le barrage Al Massira au bord de l'assèchement",
+      "publisher": "Le Matin",
+      "url": "https://lematin.ma/regions/penurie-deau-le-barrage-al-massira-au-bord-de-lassechement/246271",
+      "published": "2024-10-07",
+      "language": "fr"
+    },
+    {
+      "id": "S6",
+      "title": "Légère augmentation des réserves des barrages après les dernières pluies",
+      "publisher": "Le Matin",
+      "url": "https://lematin.ma/nation/legere-augmentation-des-reserves-des-barrages-apres-les-dernieres-pluies/241539",
+      "published": "2024-09-04",
+      "language": "fr"
+    },
+    {
+      "id": "S7",
+      "title": "Quand l'eau se fait rare : le barrage Bin El Ouidane rempli à seulement 7,7%",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/societe/quand-leau-se-fait-rare-le-barrage-bin-el-ouidane-rempli-a-seulement-77_YYLKPKFAQFBOTJUGBXKN24JMHM/",
+      "published": "2024-02-24",
+      "language": "fr"
+    },
+    {
+      "id": "S8",
+      "title": "Sécheresse : le barrage de Bin El Ouidane atteint son plus bas niveau historique",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/societe/secheresse-le-barrage-de-bin-el-ouidane-atteint-son-plus-bas-niveau-historique-267467/",
+      "published": "2022-09-26",
+      "language": "fr"
+    },
+    {
+      "id": "S9",
+      "title": "Minister: Morocco's recent rain ends seven years of drought",
+      "publisher": "Morocco World News",
+      "url": "https://www.moroccoworldnews.com/2026/01/274780/minister-moroccos-recent-rain-ends-seven-years-of-drought/",
+      "published": "2026-01-12",
+      "language": "en"
+    },
+    {
+      "id": "S10",
+      "title": "État du climat au Maroc 2024",
+      "publisher": "Direction Générale de la Météorologie (DGM)",
+      "url": "https://www.marocmeteo.ma/sites/default/files/climat_report/pdfs/Maroc_Etat_Climat_2024.pdf",
+      "published": "2025-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S11",
+      "title": "Déficit de précipitations de 44,6% dans le bassin de l'Oum Er-Rbia",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/413437-deficit-de-precipitations-de-446-dans-le-bassin-de-loum-er-rbia.html",
+      "published": "2025-02-17",
+      "language": "fr"
+    },
+    {
+      "id": "S12",
+      "title": "Oum Er-Rbia : voyage au cœur d'un fleuve clé qui alimente 10 millions de Marocains",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/economie/oum-er-rbia-voyage-au-coeur-dun-fleuve-cle-qui-alimente-10-millions-de-marocains-et-50-de_PYERUYOFENHU5G2XDKFUDXUD3M/",
+      "published": "2026-04-12",
+      "language": "fr"
+    },
+    {
+      "id": "S13",
+      "title": "Capacité, bénéficiaires, environnement : l'impact de la station de dessalement de Casablanca",
+      "publisher": "H24info",
+      "url": "https://h24info.ma/economie/capacite-beneficiaires-environnement-limpact-de-la-station-de-dessalement-de-casablanca/",
+      "published": "2024-06-11",
+      "language": "fr"
+    },
+    {
+      "id": "S14",
+      "title": "Casablanca desalination plant commissioning pushed to February 2027",
+      "publisher": "Morocco World News",
+      "url": "https://www.moroccoworldnews.com/?p=329422",
+      "published": "2026-07-15",
+      "language": "en"
+    },
+    {
+      "id": "S15",
+      "title": "Les études pour relier Sebou à Al Massira finalisées en 2026",
+      "publisher": "Le Matin",
+      "url": "https://lematin.ma/nation/les-etudes-pour-relier-sebou-a-al-massira-finalisees-en-2026/281836",
+      "published": "2025-05-26",
+      "language": "fr"
+    },
+    {
+      "id": "S16",
+      "title": "Eau potable : 2,5 milliards de dirhams pour alimenter Marrakech et les villes voisines",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/economie/eau-potable-25-milliards-de-dirhams-pour-alimenter-marrakech-et-les-villes-voisines-257974/",
+      "published": "2022-04-06",
+      "language": "fr"
+    },
+    {
+      "id": "S17",
+      "title": "Barrage Al Massira : le deuxième plus grand ouvrage hydrique du Maroc à un niveau inédit de sécheresse",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/societe/barrage-al-massira-le-deuxieme-plus-grand-ouvrage-hydrique-du-maroc-a-un-niveau-inedit-de-secheresse_NOSIBNR5FBDYXNDDOW4UHYJOSM/",
+      "published": "2024-10-12",
+      "language": "fr"
+    },
+    {
+      "id": "S18",
+      "title": "Future snow and runoff in the High Atlas Oum Er-Rbia watersheds (Tuel, El Moçayd, Hasnaoui, Eltahir)",
+      "publisher": "Hydrology and Earth System Sciences (preprint)",
+      "url": "https://hess.copernicus.org/preprints/hess-2020-622/hess-2020-622.pdf",
+      "published": "2020-12-01",
+      "language": "en"
+    },
+    {
+      "id": "S19",
+      "title": "Pénurie hydrique : l'impact sévère du réchauffement climatique sur les niveaux des cours d'eau",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2025/10/14/penurie-hydrique-limpact-severe-du-rechauffement-climatique-sur-les-niveaux-des-cours-deau/",
+      "published": "2025-10-14",
+      "language": "fr"
+    },
+    {
+      "id": "S20",
+      "title": "Voici une analyse des barrages concernés par la suspension de l'irrigation",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2022/11/03/voici-une-analyse-des-barrages-concernes-par-la-suspension-de-lirrigation/",
+      "published": "2022-11-03",
+      "language": "fr"
+    },
+    {
+      "id": "S21",
+      "title": "Barrage Al Massira : un taux de remplissage de 42%, une première depuis plus de neuf ans",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/economie/barrage-al-massira-un-taux-de-remplissage-de-42-une-premiere-depuis-plus-de-neuf-ans_4VI4AEP6PBE2FEPLIQQR63MOJE/",
+      "published": "2026-05-17",
+      "language": "fr"
+    },
+    {
+      "id": "S22",
+      "title": "Barrages : le Maroc profite de 16,3 milliards m³ d'eau en 2026",
+      "publisher": "Le Brief",
+      "url": "https://www.lebrief.ma/barrages-le-maroc-profite-de-163-milliards-m%C2%B3-deau-en-2026-100150365/",
+      "published": "2026-04-24",
+      "language": "fr"
+    },
+    {
+      "id": "S23",
+      "title": "RGPH 2024 - Population légale de la région Béni Mellal-Khénifra",
+      "publisher": "HCP",
+      "url": "https://www.hcp.ma/region-drta/Population_a69.amp.html",
+      "published": "2024-11-01",
+      "language": "fr"
+    },
+    {
+      "id": "S24",
+      "title": "RGPH 2024 - Indicateurs de la région Béni Mellal-Khénifra",
+      "publisher": "HCP",
+      "url": "https://www.hcp.ma/region-drta/_a114.amp.html",
+      "published": "2025-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S25",
+      "title": "RGPH 2024 - Indicateurs de la province de Béni Mellal",
+      "publisher": "HCP",
+      "url": "https://www.hcp.ma/region-drta/_a116.amp.html",
+      "published": "2025-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S26",
+      "title": "RGPH 2024 - Indicateurs de la province d'Azilal",
+      "publisher": "HCP",
+      "url": "https://www.hcp.ma/region-drta/Indicateurs-RGPH-2024-Province-Azilal_a115.amp.html",
+      "published": "2025-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S27",
+      "title": "RGPH 2024 - Indicateurs de la province de Khénifra",
+      "publisher": "HCP",
+      "url": "https://www.hcp.ma/region-drta/Indicateurs-RGPH-2024-Province-Khenifra_a118.amp.html",
+      "published": "2025-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S28",
+      "title": "RGPH 2024 - Indicateurs de la province de Fquih Ben Salah",
+      "publisher": "HCP",
+      "url": "https://www.hcp.ma/region-drta/_a117.amp.html",
+      "published": "2025-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S29",
+      "title": "RGPH 2024 - Indicateurs de la province de Khouribga",
+      "publisher": "HCP",
+      "url": "https://www.hcp.ma/region-drta/_a119.amp.html",
+      "published": "2025-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S30",
+      "title": "L'eau potable est désormais strictement rationnée à Béni Mellal",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2022/06/16/leau-potable-est-desormais-strictement-rationnee-a-beni-mellal/",
+      "published": "2022-06-16",
+      "language": "fr"
+    },
+    {
+      "id": "S31",
+      "title": "Béni Mellal : fermeture des hammams et stations de lavage trois jours par semaine",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/349407-349407.html",
+      "published": "2024-01-20",
+      "language": "fr"
+    },
+    {
+      "id": "S32",
+      "title": "Entretien avec Hanane Aboulfath, directrice générale de la RADEET",
+      "publisher": "Aujourd'hui le Maroc",
+      "url": "https://aujourdhui.ma/societe/entretien-avec-hanane-aboulfath-directrice-generale-de-la-radeet-la-regie-a-mobilise-50231-mdh-pour-garantir-une-gestion-optimale-de-leau-potable",
+      "published": "2024-09-12",
+      "language": "fr"
+    },
+    {
+      "id": "S33",
+      "title": "Arrêt de l'approvisionnement en eau à Béni Mellal : les explications de l'ONEE",
+      "publisher": "SNRTnews",
+      "url": "https://snrtnews.com/fr/article/arret-de-lapprovisionnement-en-eau-a-beni-mellal-les-explications-de-lonee-102480",
+      "published": "2024-09-02",
+      "language": "fr"
+    },
+    {
+      "id": "S34",
+      "title": "Béni Mellal : l'ONEE annonce le retour à la normale de la station d'Afourar",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/384826-384826.html",
+      "published": "2024-09-04",
+      "language": "fr"
+    },
+    {
+      "id": "S35",
+      "title": "Béni Mellal : 47 forages exploratoires pour sécuriser l'eau potable rurale",
+      "publisher": "SNRTnews",
+      "url": "https://snrtnews.com/article/102090",
+      "published": "2024-08-26",
+      "language": "ar"
+    },
+    {
+      "id": "S36",
+      "title": "Béni Mellal : remise de 8 camions-citernes à plusieurs communes rurales",
+      "publisher": "TelQuel",
+      "url": "https://telquel.ma/instant-t/2024/09/09/beni-mellal-remise-de-8-camions-citernes-a-plusieurs-communes-rurales_1892676/",
+      "published": "2024-09-09",
+      "language": "fr"
+    },
+    {
+      "id": "S37",
+      "title": "Douar Ifesfas: villagers walk up to 8 km to fetch water",
+      "publisher": "Hespress (AR)",
+      "url": "https://www.hespress.com/1422415-1422415.html",
+      "published": "2024-08-01",
+      "language": "ar"
+    },
+    {
+      "id": "S38",
+      "title": "Tifert n'Aït Hamza: open-ended sit-in over thirst",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=1169953",
+      "published": "2026-06-24",
+      "language": "ar"
+    },
+    {
+      "id": "S39",
+      "title": "Douar Aknan residents march to Azilal demanding drinking water",
+      "publisher": "Hespress English",
+      "url": "https://en.hespress.com/118141-118141.html",
+      "published": "2025-08-11",
+      "language": "en"
+    },
+    {
+      "id": "S40",
+      "title": "Thirst marches in the Atlas mountains 'did not come from nothing'",
+      "publisher": "Hespress (AR)",
+      "url": "https://www.hespress.com/1616927-1616927.html",
+      "published": "2025-08-31",
+      "language": "ar"
+    },
+    {
+      "id": "S41",
+      "title": "Week of village marches in Béni Mellal and Azilal for roads, water and network",
+      "publisher": "Hespress English",
+      "url": "https://en.hespress.com/139276-139276.html",
+      "published": "2026-06-05",
+      "language": "en"
+    },
+    {
+      "id": "S42",
+      "title": "Demnate: AMDH condemns continuing water cuts during the heat",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=1177993",
+      "published": "2026-08-01",
+      "language": "ar"
+    },
+    {
+      "id": "S43",
+      "title": "Moulay Bouazza and Sebt Aït Rahou without water; SRM apologises",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=1177870",
+      "published": "2026-07-31",
+      "language": "ar"
+    },
+    {
+      "id": "S44",
+      "title": "Six days without water in Moulay Bouazza",
+      "publisher": "Hespress (AR)",
+      "url": "https://www.hespress.com/1786707-1786707.html",
+      "published": "2026-08-03",
+      "language": "ar"
+    },
+    {
+      "id": "S45",
+      "title": "Moulay Bouazza: a decade of water cuts (chronology)",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=1178350",
+      "published": "2026-08-04",
+      "language": "ar"
+    },
+    {
+      "id": "S46",
+      "title": "Lehri : manifestations contre l'assèchement de l'oued Chbouka",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/266947-266947.html",
+      "published": "2022-06-01",
+      "language": "fr"
+    },
+    {
+      "id": "S47",
+      "title": "Khénifra : vaste impulsion au développement avec le lancement de grands projets",
+      "publisher": "Maroc.ma",
+      "url": "https://www.maroc.ma/fr/actualites/khenifra-vaste-impulsion-au-developpement-avec-le-lancement-de-grands-projets-dedies-au-renforcement",
+      "published": "2026-04-29",
+      "language": "fr"
+    },
+    {
+      "id": "S48",
+      "title": "Fquih Ben Salah : l'ONEE s'explique sur les perturbations de l'eau potable",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/155635-155635.html",
+      "published": "2020-07-08",
+      "language": "fr"
+    },
+    {
+      "id": "S49",
+      "title": "Ouled Kichou residents meet the governor with empty bottles",
+      "publisher": "Hespress (AR)",
+      "url": "https://www.hespress.com/1406004-1406004.html",
+      "published": "2024-07-26",
+      "language": "ar"
+    },
+    {
+      "id": "S50",
+      "title": "L'ONEE met en service un projet de 134 MDH pour Souk Sebt, Ouled Ayad et Dar Ould Zidouh",
+      "publisher": "H24info",
+      "url": "https://h24info.ma/?p=830323",
+      "published": "2024-08-01",
+      "language": "fr"
+    },
+    {
+      "id": "S51",
+      "title": "Khouribga et Oued Zem : coupures d'eau après une fuite sur la conduite principale",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/436996-436996.html",
+      "published": "2025-08-06",
+      "language": "fr"
+    },
+    {
+      "id": "S52",
+      "title": "Khouribga : 48 heures de coupure totale d'eau potable",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/156744-156744.html",
+      "published": "2020-07-17",
+      "language": "fr"
+    },
+    {
+      "id": "S53",
+      "title": "Khouribga : la société civile en colère suite aux multiples coupures d'eau",
+      "publisher": "TelQuel",
+      "url": "https://telquel.ma/instant-t/2023/08/14/khouribga-la-societe-civile-en-colere-suite-aux-multiples-coupures-deau_1826047/",
+      "published": "2023-08-14",
+      "language": "fr"
+    },
+    {
+      "id": "S54",
+      "title": "Eau de dessalement : ce qu'il faut savoir sur le pipeline Jorf Lasfar–Khouribga",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2025/07/15/eau-de-dessalement-ce-quil-faut-savoir-sur-le-pipeline-jorf-lasfar-khouribga/",
+      "published": "2025-07-15",
+      "language": "fr"
+    },
+    {
+      "id": "S55",
+      "title": "L'ONEE investit 365 millions de DH pour sécuriser l'alimentation en eau de Khouribga",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2026/07/15/lonee-investit-365-millions-de-dh-pour-securiser-lalimentation-en-eau-de-khouribga-1722757/",
+      "published": "2026-07-15",
+      "language": "fr"
+    },
+    {
+      "id": "S56",
+      "title": "SRM Béni Mellal-Khénifra : un plan d'investissement de plus de 11,37 milliards DH",
+      "publisher": "Aujourd'hui le Maroc",
+      "url": "https://aujourdhui.ma/?p=509716",
+      "published": "2025-12-30",
+      "language": "fr"
+    },
+    {
+      "id": "S57",
+      "title": "Béni Mellal civil society lists water complaints to the SRM director",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=1147188",
+      "published": "2026-03-01",
+      "language": "ar"
+    },
+    {
+      "id": "S58",
+      "title": "Le conseil régional adopte une convention-cadre de 979 MDH pour l'eau",
+      "publisher": "Aujourd'hui le Maroc",
+      "url": "https://aujourdhui.ma/?p=497384",
+      "published": "2025-07-01",
+      "language": "fr"
+    },
+    {
+      "id": "S59",
+      "title": "PNAEPI : bilan régional des projets 2022-2024 à Béni Mellal-Khénifra",
+      "publisher": "Aujourd'hui le Maroc",
+      "url": "https://aujourdhui.ma/?p=478399",
+      "published": "2024-12-02",
+      "language": "fr"
+    },
+    {
+      "id": "S60",
+      "title": "Khouribga: upper floors without water as heatwave meets pipeline leak",
+      "publisher": "Hespress (AR)",
+      "url": "https://www.hespress.com/1605552-1605552.html",
+      "published": "2025-08-06",
+      "language": "ar"
+    },
+    {
+      "id": "S61",
+      "title": "Oued Zem: cuts of up to 2-3 days without notice",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=939343",
+      "published": "2024-06-01",
+      "language": "ar"
+    },
+    {
+      "id": "S62",
+      "title": "Moulay Bouazza: 'Is the water back?' - residents' daily question",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=1172262",
+      "published": "2026-07-01",
+      "language": "ar"
+    },
+    {
+      "id": "S63",
+      "title": "Demnate: water cut on Eid al-Adha without notice",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=446461",
+      "published": "2019-08-15",
+      "language": "ar"
+    },
+    {
+      "id": "S64",
+      "title": "Demnate: 'three dams, thirsty and lit by candles' - banned protest",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=568434",
+      "published": "2020-08-01",
+      "language": "ar"
+    },
+    {
+      "id": "S65",
+      "title": "Khouribga protest denounces taste, colour and smell of tap water",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=864938",
+      "published": "2023-08-01",
+      "language": "ar"
+    },
+    {
+      "id": "S66",
+      "title": "Eau potable : 1,17 MMDH pour la région de Béni Mellal (PNAEPI)",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/eau-potable-1-17-mmdh-pour-la-region-de-beni-mellal-7031.html",
+      "published": "2020-01-22",
+      "language": "fr"
+    },
+    {
+      "id": "S67",
+      "title": "Bassin de l'Oum Er-Rbia : des ressources en eau en amélioration (conseil d'administration ABHOER)",
+      "publisher": "Le Matin",
+      "url": "https://lematin.ma/regions/bassin-de-loum-er-rbia-des-ressources-en-eau-en-amelioration/334203",
+      "published": "2026-03-10",
+      "language": "fr"
+    },
+    {
+      "id": "S68",
+      "title": "Deuxième plus important barrage au Maroc, Al Massira au bord de l'assèchement",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/economie/deuxieme-plus-important-barrage-au-maroc-al-massira-au-bord-de-lassechement-264907/",
+      "published": "2022-08-07",
+      "language": "fr"
+    },
+    {
+      "id": "S69",
+      "title": "ABHOER : taux de remplissage des barrages à 21,12%",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/211570-abhoer-taux-de-remplissage-des-barrages-a-2112.html",
+      "published": "2021-06-25",
+      "language": "fr"
+    },
+    {
+      "id": "S70",
+      "title": "Bassin hydraulique de l'Oum Er-Rbia : les principaux barrages remplis à 8,67%",
+      "publisher": "Infomédiaire",
+      "url": "https://www.infomediaire.net/bassin-hydraulique-de-loum-er-rbia-les-principaux-barrages-remplis-a-867/",
+      "published": "2023-01-03",
+      "language": "fr"
+    },
+    {
+      "id": "S71",
+      "title": "Groundwater and surface water in the Tadla irrigation scheme (IWRA World Water Congress paper)",
+      "publisher": "IWRA",
+      "url": "https://iwra.org/proceedings/congress/resource/abs622_article.pdf",
+      "published": "2008-09-01",
+      "language": "en"
+    },
+    {
+      "id": "S72",
+      "title": "Gestion collective des puits et irrigation dans le périmètre du Tadla (Hammani et al.)",
+      "publisher": "Cahiers Agricultures (CIRAD)",
+      "url": "https://revues.cirad.fr/index.php/cahiers-agricultures/article/download/30905/30665/31140",
+      "published": "2009-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S73",
+      "title": "Morocco picks Australian-backed bid to modernize Tadla's Beni Moussa irrigation canals",
+      "publisher": "Morocco World News",
+      "url": "https://www.moroccoworldnews.com/2026/09/340103/morocco-picks-australian-backed-bid-to-modernize-tadlas-beni-moussa-irrigation-canals/",
+      "published": "2026-09-01",
+      "language": "en"
+    },
+    {
+      "id": "S74",
+      "title": "Grande hydraulique : modernisation de 310 km de canaux à Béni Mellal-Khénifra",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/361936-grande-hydraulique-modernisation-de-310-km-de-canaux-a-beni-mellal-khenifra.html",
+      "published": "2024-04-12",
+      "language": "fr"
+    },
+    {
+      "id": "S75",
+      "title": "Irrigation au goutte-à-goutte : l'ORMVA accélère la reconversion dans la région de Tadla",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2025/04/29/irrigation-au-goutte-a-goutte-lormva-accelere-la-reconversion-dans-la-region-de-tadla/",
+      "published": "2025-04-29",
+      "language": "fr"
+    },
+    {
+      "id": "S76",
+      "title": "Moulouya, Oum Er-Rbia et Tensift : le détail du plan d'urgence pour l'eau potable",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2022/03/07/moulouya-oum-er-rbia-et-tensift-le-detail-du-plan-durgence-pour-leau-potable/",
+      "published": "2022-03-07",
+      "language": "fr"
+    },
+    {
+      "id": "S77",
+      "title": "Eau agricole à Béni Mellal-Khénifra : le fragile équilibre entre eau de surface et ressources souterraines",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2023/12/19/eau-agricole-a-beni-mellal-khenifra-le-fragile-equilibre-entre-eau-de-surface-et-ressources-souterraines/",
+      "published": "2023-12-19",
+      "language": "fr"
+    },
+    {
+      "id": "S78",
+      "title": "Dans les régions oléicoles, la sécheresse persistante menace la survie des oliveraies",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2024/08/17/dans-les-regions-oleicoles-la-secheresse-persistante-menace-la-survie-des-oliveraies/",
+      "published": "2024-08-17",
+      "language": "fr"
+    },
+    {
+      "id": "S79",
+      "title": "Sécheresse : à Afourer, les agriculteurs accusent le coup mais ne baissent pas les bras",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2025/02/10/secheresse-a-afourer-les-agriculteurs-accusent-le-coup-mais-ne-baissent-pas-les-bras/",
+      "published": "2025-02-10",
+      "language": "fr"
+    },
+    {
+      "id": "S80",
+      "title": "Campagne agricole : grâce aux pluies et aux barrages, plusieurs régions sortent la tête de l'eau",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2026/03/24/campagne-agricole-grace-aux-pluies-et-aux-barrages-plusieurs-regions-sortent-la-tete-de-leau-1647293/",
+      "published": "2026-03-24",
+      "language": "fr"
+    },
+    {
+      "id": "S81",
+      "title": "Agriculture : le Maroc entame la nouvelle campagne avec ses meilleures réserves en eau depuis dix ans",
+      "publisher": "TelQuel",
+      "url": "https://telquel.ma/2026/09/15/agriculture-le-maroc-entame-la-nouvelle-campagne-avec-ses-meilleures-reserves-en-eau-depuis-dix-ans_2007549",
+      "published": "2026-09-15",
+      "language": "fr"
+    },
+    {
+      "id": "S82",
+      "title": "Cosumar : lancement de la campagne sucrière",
+      "publisher": "Finances News Hebdo",
+      "url": "https://fnh.ma/article/actualite-economique/cosumar-campagne",
+      "published": "2024-11-01",
+      "language": "fr"
+    },
+    {
+      "id": "S83",
+      "title": "Pluies, barrages, emblavements : Béni Mellal-Khénifra retrouve une dynamique agricole positive après 7 ans de sécheresse",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2026/01/08/pluies-barrages-emblavements-beni-mellal-khenifra-retrouve-une-dynamique-agricole-positive-apres-7-ans-de-secheresse-1608583/",
+      "published": "2026-01-08",
+      "language": "fr"
+    },
+    {
+      "id": "S84",
+      "title": "Tadla : production oléicole et superficies irriguées en goutte-à-goutte",
+      "publisher": "Aujourd'hui le Maroc",
+      "url": "https://aujourdhui.ma/?p=503268",
+      "published": "2025-10-13",
+      "language": "fr"
+    },
+    {
+      "id": "S85",
+      "title": "L'agrumiculture confrontée à la pénurie d'eau : arrachages d'arbres dans certaines zones",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2022/07/11/lagrumiculture-confrontee-a-la-penurie-deau-arrachages-darbres-dans-certaines-zones/",
+      "published": "2022-07-11",
+      "language": "fr"
+    },
+    {
+      "id": "S86",
+      "title": "La nappe phréatique des Béni Amir (Tadla) : bilan, salinité et nitrates",
+      "publisher": "Revue Sciences de l'Eau et de l'Environnement",
+      "url": "https://revue-set.fr/article/download/5886/21268",
+      "published": "2001-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S87",
+      "title": "Drip irrigation and groundwater use in the Tadla scheme (Boularbah et al., Irrigation & Drainage 68(5))",
+      "publisher": "INRAE HAL",
+      "url": "https://hal.inrae.fr/hal-02610299",
+      "published": "2019-12-01",
+      "language": "en"
+    },
+    {
+      "id": "S88",
+      "title": "Squaring the circle: agricultural intensification vs. water conservation in Morocco (Molle & Tanouti)",
+      "publisher": "Agricultural Water Management 192",
+      "url": "https://ideas.repec.org/a/eee/agiwat/v192y2017icp170-179.html",
+      "published": "2017-10-01",
+      "language": "en"
+    },
+    {
+      "id": "S89",
+      "title": "Nizar Baraka : près de 60% de l'eau destinée à l'agriculture se perd dans les canalisations",
+      "publisher": "TelQuel",
+      "url": "https://telquel.ma/instant-t/2026/06/22/nizar-baraka-pres-de-60-de-leau-destinee-a-lagriculture-se-perd-dans-les-canalisations_1995387/",
+      "published": "2026-06-22",
+      "language": "fr"
+    },
+    {
+      "id": "S90",
+      "title": "RADEET : un rendement du réseau de 63% et un objectif de 70%",
+      "publisher": "Aujourd'hui le Maroc",
+      "url": "https://aujourdhui.ma/?p=101719",
+      "published": "2010-12-01",
+      "language": "fr"
+    },
+    {
+      "id": "S91",
+      "title": "Trois stations d'épuration au service de l'OCP inaugurées dans la région de Béni Mellal-Khénifra",
+      "publisher": "H24info",
+      "url": "https://h24info.ma/?p=848272",
+      "published": "2024-10-04",
+      "language": "fr"
+    },
+    {
+      "id": "S92",
+      "title": "100 millions de m³ d'eaux usées réutilisées à l'horizon 2027 (Laftit)",
+      "publisher": "Le Matin",
+      "url": "https://lematin.ma/nation/100-millions-de-m3-deaux-usees-reutilisees-a-lhorizon-2027-laftit/245041",
+      "published": "2024-10-01",
+      "language": "fr"
+    },
+    {
+      "id": "S93",
+      "title": "Agriculture : ce que la nouvelle autoroute de l'eau va changer",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/economie/agriculture-ce-que-la-nouvelle-autoroute-de-leau-va-changer_G2YZ2L6TJNFJ3BJR62IWMMISZU/",
+      "published": "2023-06-07",
+      "language": "fr"
+    },
+    {
+      "id": "S94",
+      "title": "Béni Mellal-Khénifra investit dans les barrages pour sécuriser ses ressources en eau",
+      "publisher": "TelQuel",
+      "url": "https://telquel.ma/instant-t/2025/08/19/beni-mellal-khenifra-investit-dans-les-barrages-pour-securiser-ses-ressources-en-eau_1946901/",
+      "published": "2025-08-19",
+      "language": "fr"
+    },
+    {
+      "id": "S95",
+      "title": "Eau agricole : voici où en est la généralisation des contrats de nappe",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2023/05/10/eau-agricole-voici-ou-en-est-la-generalisation-des-contrats-de-nappe/",
+      "published": "2023-05-10",
+      "language": "fr"
+    },
+    {
+      "id": "S96",
+      "title": "Études sur les nappes : l'irrigation doit reculer pour que l'eau revienne",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2025/12/12/etudes-sur-les-nappes-lirrigation-doit-reculer-pour-que-leau-revienne-1594465/",
+      "published": "2025-12-12",
+      "language": "fr"
+    },
+    {
+      "id": "S97",
+      "title": "Ensemencement artificiel des nuages : 163 opérations effectuées au Maroc depuis 2020",
+      "publisher": "TelQuel",
+      "url": "https://telquel.ma/instant-t/2024/11/01/ensemencement-artificiel-des-nuages-163-operations-effectuees-au-maroc-depuis-2020-selon-nizar-baraka_1902334/",
+      "published": "2024-11-01",
+      "language": "fr"
+    },
+    {
+      "id": "S98",
+      "title": "ONEE : vers une réforme des tarifs de l'eau potable",
+      "publisher": "Le360",
+      "url": "https://fr.le360.ma/economie/onee-vers-une-reforme-des-tarifs-de-leau-potable-270162/",
+      "published": "2022-11-10",
+      "language": "fr"
+    },
+    {
+      "id": "S99",
+      "title": "ONEE : plus de 6 MMDH pour réduire les pertes et fuites d'eau potable sur le réseau",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2023/11/30/onee-plus-de-6-mmdh-pour-reduire-les-pertes-et-fuites-deau-potable-sur-le-reseau/",
+      "published": "2023-11-30",
+      "language": "fr"
+    },
+    {
+      "id": "S100",
+      "title": "Dakhla, Casablanca, El Jadida : le Maroc accélère ses projets de dessalement",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/437711-dakhla-casablanca-el-jadida-le-maroc-accelere-ses-projets-de-dessalement.html",
+      "published": "2025-08-01",
+      "language": "fr"
+    },
+    {
+      "id": "S101",
+      "title": "World Bank supports resilient and sustainable agriculture in Morocco (RESWAG)",
+      "publisher": "World Bank",
+      "url": "https://www.worldbank.org/en/news/press-release/2022/03/25/world-bank-supports-resilient-and-sustainable-agriculture-in-morocco",
+      "published": "2022-03-25",
+      "language": "en"
+    },
+    {
+      "id": "S102",
+      "title": "Béni Mellal-Khénifra : 693 825 quintaux d'orge subventionnée distribués aux éleveurs",
+      "publisher": "Hespress FR",
+      "url": "https://fr.hespress.com/185309-beni-mellal-khenifra-quelque-693-825-quintaux-dorge-subventionnee-distribuee-aux-eleveurs.html",
+      "published": "2021-01-15",
+      "language": "fr"
+    },
+    {
+      "id": "S103",
+      "title": "Khénifra: 89 MDH convention to bring drinking water to El Kbab and 52 douars",
+      "publisher": "Hespress English",
+      "url": "https://en.hespress.com/34584-34584.html",
+      "published": "2022-01-15",
+      "language": "en"
+    },
+    {
+      "id": "S104",
+      "title": "ONEE : le système d'alimentation en eau potable de la zone Maroc central",
+      "publisher": "Aujourd'hui le Maroc",
+      "url": "https://aujourdhui.ma/?p=481130",
+      "published": "2025-01-03",
+      "language": "fr"
+    },
+    {
+      "id": "S105",
+      "title": "Annuaire statistique régional Béni Mellal-Khénifra 2021 (tables ONEE / RADEET)",
+      "publisher": "HCP",
+      "url": "https://www.hcp.ma/region-drta/docs/Publications/annuairestatistiqueregional2021.pdf",
+      "published": "2021-12-01",
+      "language": "fr"
+    },
+    {
+      "id": "S106",
+      "title": "Béni Mellal : turbidité à Aïn Asserdoun et capacité de production de la RADEET",
+      "publisher": "Aujourd'hui le Maroc",
+      "url": "https://aujourdhui.ma/?p=81333",
+      "published": "2009-02-15",
+      "language": "fr"
+    },
+    {
+      "id": "S107",
+      "title": "Azilal and Demnate: Hassan I dam plant, pipe break and failing boreholes",
+      "publisher": "Al3omk",
+      "url": "https://al3omk.com/?p=1178324",
+      "published": "2026-08-03",
+      "language": "ar"
+    },
+    {
+      "id": "S108",
+      "title": "Performance of the Khénifra drinking-water treatment and demineralisation plant (PhD thesis)",
+      "publisher": "IMIST Toubkal",
+      "url": "https://toubkal.imist.ma/bitstreams/074e28a9-f0a1-4574-854b-3515806e0623/download",
+      "published": "2021-05-21",
+      "language": "fr"
+    },
+    {
+      "id": "S109",
+      "title": "Water stress: how Casablanca manages scarcity",
+      "publisher": "L'Economiste",
+      "url": "https://weekly.leconomiste.com/he-water-stress-how-casablanca-manages-scarcity/",
+      "published": "2022-03-31",
+      "language": "en"
+    },
+    {
+      "id": "S110",
+      "title": "Round-up : comment les besoins en eau potable du Grand Casablanca ont été assurés",
+      "publisher": "Médias24",
+      "url": "https://medias24.com/2023/06/20/round-up-comment-les-besoins-en-eau-potable-du-grand-casablanca-ont-ete-assures/",
+      "published": "2023-06-20",
+      "language": "fr"
+    },
+    {
+      "id": "S111",
+      "title": "OCP : le pipeline Jorf Lasfar-Khouribga et la répartition des 80 Mm³ d'eau dessalée",
+      "publisher": "La Vie Éco",
+      "url": "https://www.lavieeco.com/?p=417505",
+      "published": "2025-07-19",
+      "language": "fr"
+    },
+    {
+      "id": "S112",
+      "title": "Dossier Béni Mellal-Khénifra : eau, agriculture et infrastructures",
+      "publisher": "L'Economiste",
+      "url": "https://www.leconomiste.com/wp-content/uploads/2022/03/dossier_beni-mellal-1.pdf",
+      "published": "2022-03-01",
+      "language": "fr"
+    },
+    {
+      "id": "S113",
+      "title": "Ressources en eau et irrigation dans le bassin de l'Oum Er-Rbia (Tadla, Tassaout)",
+      "publisher": "CIRAD Agritrop",
+      "url": "https://agritrop.cirad.fr/544079/1/document_544079.pdf",
+      "published": "2005-01-01",
+      "language": "fr"
+    },
+    {
+      "id": "S114",
+      "title": "ONEE : renforcement de l'eau potable de Souk Sebt, Ouled Ayad et Dar Ould Zidouh à partir d'Afourer",
+      "publisher": "Finances News Hebdo",
+      "url": "https://www.fnh.ma/article/actualites-marocaines/onee-eau-potable",
+      "published": "2023-03-06",
+      "language": "fr"
+    }
+  ],
+  "key_figures": [
+    {
+      "id": "KF_POP",
+      "value": 2525801,
+      "unit": "people",
+      "as_of": "2024-09",
+      "label_en": "Legal population of the region (RGPH 2024)",
+      "label_fr": "Population légale de la région (RGPH 2024)",
+      "source_ids": [
+        "S23"
+      ]
+    },
+    {
+      "id": "KF_RURAL_TAP",
+      "value": 65.5,
+      "unit": "%",
+      "as_of": "2024-09",
+      "label_en": "Rural households with running water - region",
+      "label_fr": "Ménages ruraux raccordés à l'eau courante - région",
+      "source_ids": [
+        "S24"
+      ]
+    },
+    {
+      "id": "KF_RURAL_TAP_KHN",
+      "value": 18.4,
+      "unit": "%",
+      "as_of": "2024-09",
+      "label_en": "Rural households with running water - Khénifra",
+      "label_fr": "Ménages ruraux raccordés - Khénifra",
+      "province_id": "KHENIFRA",
+      "source_ids": [
+        "S27"
+      ]
+    },
+    {
+      "id": "KF_RURAL_TAP_KHO",
+      "value": 13.6,
+      "unit": "%",
+      "as_of": "2024-09",
+      "label_en": "Rural households with running water - Khouribga",
+      "label_fr": "Ménages ruraux raccordés - Khouribga",
+      "province_id": "KHOURIBGA",
+      "source_ids": [
+        "S29"
+      ]
+    },
+    {
+      "id": "KF_MASSIRA_LOW",
+      "value": 0.4,
+      "unit": "%",
+      "as_of": "2024-10",
+      "label_en": "Al Massira dam fill rate - lowest since 1979",
+      "label_fr": "Remplissage du barrage Al Massira - plus bas depuis 1979",
+      "source_ids": [
+        "S5",
+        "S17"
+      ]
+    },
+    {
+      "id": "KF_BASIN_LOW",
+      "value": 4.4,
+      "unit": "%",
+      "as_of": "2024-09-04",
+      "label_en": "Oum Er-Rbia basin dams - lowest basin in Morocco",
+      "label_fr": "Barrages du bassin de l'Oum Er-Rbia - plus bas du pays",
+      "source_ids": [
+        "S6"
+      ]
+    },
+    {
+      "id": "KF_BASIN_NOW",
+      "value": 58.3,
+      "unit": "%",
+      "as_of": "2026-10-12",
+      "label_en": "Oum Er-Rbia basin dams today, after the wet 2025-26 winter",
+      "label_fr": "Barrages du bassin aujourd'hui, après l'hiver humide 2025-26",
+      "source_ids": [
+        "S1"
+      ]
+    },
+    {
+      "id": "KF_MASSIRA_NOW",
+      "value": 40.21,
+      "unit": "%",
+      "as_of": "2026-09-01",
+      "label_en": "Al Massira on 1 Sept 2026 - recovery still incomplete",
+      "label_fr": "Al Massira au 1er sept. 2026 - reprise encore incomplète",
+      "source_ids": [
+        "S2"
+      ]
+    },
+    {
+      "id": "KF_RAIN_2024",
+      "value": -44.6,
+      "unit": "%",
+      "as_of": "2023-24",
+      "label_en": "Rainfall deficit in the basin, 2023-24 (driest year in 63 years nationally)",
+      "label_fr": "Déficit pluviométrique du bassin, 2023-24 (année la plus sèche depuis 63 ans)",
+      "source_ids": [
+        "S10",
+        "S11"
+      ]
+    },
+    {
+      "id": "KF_INFLOW_2024",
+      "value": -76,
+      "unit": "%",
+      "as_of": "2023-24",
+      "label_en": "Dam inflow deficit in the basin, 2023-24",
+      "label_fr": "Déficit des apports aux barrages du bassin, 2023-24",
+      "source_ids": [
+        "S11"
+      ]
+    },
+    {
+      "id": "KF_TEMP_2024",
+      "value": 2.1,
+      "unit": "°C",
+      "as_of": "2024",
+      "label_en": "Mean temperature anomaly in Béni Mellal-Khénifra, 2024",
+      "label_fr": "Anomalie de température moyenne à Béni Mellal-Khénifra, 2024",
+      "source_ids": [
+        "S10"
+      ]
+    },
+    {
+      "id": "KF_OVERDRAFT",
+      "value": 300,
+      "unit": "Mm³/yr",
+      "as_of": "2026",
+      "label_en": "Groundwater overdraft in the Oum Er-Rbia basin (12 aquifers)",
+      "label_fr": "Surexploitation des nappes du bassin (12 aquifères)",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    {
+      "id": "KF_RESOURCES",
+      "value": 3300,
+      "unit": "Mm³/yr",
+      "as_of": "2026",
+      "label_en": "Average renewable water resources of the basin (demand > 3,660)",
+      "label_fr": "Ressources en eau moyennes du bassin (demande > 3 660)",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    {
+      "id": "KF_AFOURAR",
+      "value": 4,
+      "unit": "days",
+      "as_of": "2024-09",
+      "label_en": "Béni Mellal supply cut by 50-65% when muddy floodwater stopped the Afourar plant",
+      "label_fr": "Approvisionnement de Béni Mellal réduit de 50-65 % quand la boue a stoppé la station d'Afourar",
+      "province_id": "BENI_MELLAL",
+      "source_ids": [
+        "S32",
+        "S34"
+      ]
+    },
+    {
+      "id": "KF_MB_2026",
+      "value": 6,
+      "unit": "days",
+      "as_of": "2026-08",
+      "label_en": "Dry taps in Moulay Bouazza in summer 2026 - despite full dams",
+      "label_fr": "Robinets à sec à Moulay Bouazza à l'été 2026 - malgré des barrages pleins",
+      "province_id": "KHENIFRA",
+      "source_ids": [
+        "S44"
+      ]
+    },
+    {
+      "id": "KF_DESAL",
+      "value": 300,
+      "unit": "Mm³/yr",
+      "as_of": "2027-02",
+      "label_en": "Casablanca desalination plant (phase 1: 200 Mm³) - due Feb 2027",
+      "label_fr": "Station de dessalement de Casablanca (phase 1 : 200 Mm³) - prévue en février 2027",
+      "source_ids": [
+        "S13",
+        "S14"
+      ]
+    },
+    {
+      "id": "KF_SRM_INVEST",
+      "value": 11.37,
+      "unit": "bn MAD",
+      "as_of": "2026-2030",
+      "label_en": "Investment plan of the regional multiservice company (water, power, sanitation)",
+      "label_fr": "Plan d'investissement de la SRM (eau, électricité, assainissement)",
+      "source_ids": [
+        "S56"
+      ]
+    },
+    {
+      "id": "KF_TADLA_ALLOC",
+      "value": 56,
+      "unit": "Mm³",
+      "as_of": "2023-24",
+      "label_en": "Dam water allotted to Tadla farms in 2023-24 (design ≈1,130 Mm³)",
+      "label_fr": "Eau des barrages allouée aux fermes du Tadla en 2023-24 (dotation prévue ≈1 130 Mm³)",
+      "source_ids": [
+        "S77",
+        "S71"
+      ]
+    },
+    {
+      "id": "KF_OLIVES",
+      "value": -63,
+      "unit": "%",
+      "as_of": "2023-24",
+      "label_en": "Tadla olive harvest vs a normal year (120,000 t → 44,000 t)",
+      "label_fr": "Récolte d'olives du Tadla vs année normale (120 000 t → 44 000 t)",
+      "source_ids": [
+        "S84",
+        "S78"
+      ]
+    },
+    {
+      "id": "KF_CASA_OER",
+      "value": 109,
+      "unit": "Mm³",
+      "as_of": "2021",
+      "label_en": "Casablanca's drinking water drawn from the Oum Er-Rbia",
+      "label_fr": "Eau potable de Casablanca prélevée dans l'Oum Er-Rbia",
+      "source_ids": [
+        "S109"
+      ]
+    },
+    {
+      "id": "KF_RECOVERY",
+      "value": 3379,
+      "unit": "Mm³",
+      "as_of": "2025-09/2026-04",
+      "label_en": "Oum Er-Rbia inflows in the 2025-26 wet season (+42% vs normal)",
+      "label_fr": "Apports de l'Oum Er-Rbia pendant la saison humide 2025-26 (+42 % vs normale)",
+      "source_ids": [
+        "S22",
+        "S67",
+        "S83",
+        "S81"
+      ]
+    }
+  ],
+  "provinces": [
+    {
+      "province_id": "KHENIFRA",
+      "population_2024": 367963,
+      "urban_share_pct": 65.9,
+      "stress_score": 5,
+      "supply_en": "Khénifra treatment plant on the Oum Er-Rbia; Moulay Bouazza fed by a single 85 km pipeline with 4 pumping stations; M'rirt plant with demineralisation (salty water).",
+      "supply_fr": "Station de traitement de Khénifra sur l'Oum Er-Rbia ; Moulay Bouazza alimentée par une conduite unique de 85 km et 4 stations de pompage ; station de M'rirt avec déminéralisation (eau salée).",
+      "main_issue_en": "Only 18.4% of rural households have running water; repeated multi-day cuts (Moulay Bouazza, M'rirt) and salty water.",
+      "main_issue_fr": "Seuls 18,4 % des ménages ruraux ont l'eau courante ; coupures répétées de plusieurs jours (Moulay Bouazza, M'rirt) et eau salée.",
+      "source_ids": [
+        "S27",
+        "S45",
+        "S47",
+        "S44",
+        "S108"
+      ]
+    },
+    {
+      "province_id": "BENI_MELLAL",
+      "population_2024": 576266,
+      "urban_share_pct": 60.6,
+      "stress_score": 3,
+      "supply_en": "Three sources: Aïn Asserdoun spring, Sidi Jaber boreholes and the Afourar plant (Bin El Ouidane dam), which alone covers about two thirds of city demand.",
+      "supply_fr": "Trois sources : source d'Aïn Asserdoun, forages de Sidi Jaber et station d'Afourar (barrage Bin El Ouidane), qui couvre à elle seule environ deux tiers de la demande.",
+      "main_issue_en": "Night rationing in 2022 when the spring weakened; a 4-day outage in 2024 when floodwater mud stopped the Afourar plant.",
+      "main_issue_fr": "Rationnement nocturne en 2022 quand la source a faibli ; 4 jours de coupure en 2024 quand la boue a stoppé la station d'Afourar.",
+      "source_ids": [
+        "S25",
+        "S30",
+        "S32",
+        "S33",
+        "S104",
+        "S106"
+      ]
+    },
+    {
+      "province_id": "AZILAL",
+      "population_2024": 572867,
+      "urban_share_pct": 19.6,
+      "stress_score": 4,
+      "supply_en": "The Hassan Iᵉʳ dam treatment plant (Lakhdar valley) is the main source for Azilal and Demnate, via a single trunk pipe; mountain villages rely on springs and wells that fail in droughts.",
+      "supply_fr": "La station du barrage Hassan Iᵉʳ (vallée du Lakhdar) est la principale source d'Azilal et de Demnate, via une conduite maîtresse unique ; les villages de montagne dépendent de sources et puits qui lâchent en sécheresse.",
+      "main_issue_en": "Mountain villages walking hours for water, thirst marches and sit-ins; recurring cuts in Demnate.",
+      "main_issue_fr": "Villages de montagne marchant des heures pour l'eau, marches de la soif et sit-in ; coupures récurrentes à Demnate.",
+      "source_ids": [
+        "S26",
+        "S37",
+        "S38",
+        "S42",
+        "S64",
+        "S107"
+      ]
+    },
+    {
+      "province_id": "FQUIH_BEN_SALAH",
+      "population_2024": 475093,
+      "urban_share_pct": 42.5,
+      "stress_score": 3,
+      "supply_en": "Ouled Abdellah borehole field (~300 l/s) for Fquih Ben Salah; Souk Sebt and Oulad Ayad on the Afourar plant after their boreholes dried up.",
+      "supply_fr": "Champ captant d'Ouled Abdellah (~300 l/s) pour Fquih Ben Salah ; Souk Sebt et Oulad Ayad dépendent de la station d'Afourar depuis l'assèchement de leurs forages.",
+      "main_issue_en": "Falling water tables dry up boreholes; villages on tanker trucks; 5-day cut in the 2020 heat.",
+      "main_issue_fr": "La baisse des nappes assèche les forages ; villages ravitaillés par camions-citernes ; 5 jours de coupure lors de la chaleur de 2020.",
+      "source_ids": [
+        "S28",
+        "S48",
+        "S50",
+        "S49",
+        "S32",
+        "S114"
+      ]
+    },
+    {
+      "province_id": "KHOURIBGA",
+      "population_2024": 518610,
+      "urban_share_pct": 71.0,
+      "stress_score": 4,
+      "supply_en": "Aït Messaoud dam water pumped 80 km through 4 stations, plus Fquih Ben Salah groundwater; desalinated water from Jorf Lasfar announced (10 Mm³/yr).",
+      "supply_fr": "Eau du barrage Aït Messaoud pompée sur 80 km via 4 stations, plus des eaux souterraines de Fquih Ben Salah ; eau dessalée de Jorf Lasfar annoncée (10 Mm³/an).",
+      "main_issue_en": "Lowest rural access in the region (13.6%); repeated cuts on a single long pipeline (2020, 2023, 2024, 2025).",
+      "main_issue_fr": "Accès rural le plus faible de la région (13,6 %) ; coupures répétées sur une conduite unique (2020, 2023, 2024, 2025).",
+      "source_ids": [
+        "S29",
+        "S51",
+        "S52",
+        "S53",
+        "S54",
+        "S104"
+      ]
+    }
+  ],
+  "towns": [
+    {
+      "name": "Moulay Bouazza",
+      "lat": 33.226,
+      "lon": -6.199,
+      "province_id": "KHENIFRA",
+      "note_en": "Up to 6 days without water in summer 2026; cuts recorded every summer since 2015.",
+      "note_fr": "Jusqu'à 6 jours sans eau à l'été 2026 ; coupures chaque été depuis 2015.",
+      "source_ids": [
+        "S44",
+        "S45"
+      ]
+    },
+    {
+      "name": "Sebt Aït Rahou",
+      "lat": 33.2152,
+      "lon": -6.2606,
+      "province_id": "KHENIFRA",
+      "note_en": "Same pipeline as Moulay Bouazza - multi-day cut in July 2026.",
+      "note_fr": "Même conduite que Moulay Bouazza - coupure de plusieurs jours en juillet 2026.",
+      "source_ids": [
+        "S43"
+      ]
+    },
+    {
+      "name": "M'rirt",
+      "lat": 33.1643,
+      "lon": -5.5672,
+      "province_id": "KHENIFRA",
+      "note_en": "Repeated cuts and salty water; 165 MDH plant upgrade due end-2027.",
+      "note_fr": "Coupures répétées et eau salée ; extension de station de 165 MDH prévue fin 2027.",
+      "source_ids": [
+        "S47"
+      ]
+    },
+    {
+      "name": "Béni Mellal",
+      "lat": 32.3372,
+      "lon": -6.3498,
+      "province_id": "BENI_MELLAL",
+      "note_en": "Night rationing by district (2022); 50-65% supply loss for ~4 days (Sept 2024).",
+      "note_fr": "Rationnement nocturne par quartier (2022) ; perte de 50-65 % de l'approvisionnement ~4 jours (sept. 2024).",
+      "source_ids": [
+        "S30",
+        "S32",
+        "S34"
+      ]
+    },
+    {
+      "name": "Tagzirt",
+      "lat": 32.4377,
+      "lon": -6.2068,
+      "province_id": "BENI_MELLAL",
+      "note_en": "Youth march against recurring summer shortages (2026).",
+      "note_fr": "Marche des jeunes contre les pénuries estivales récurrentes (2026).",
+      "source_ids": [
+        "S41"
+      ]
+    },
+    {
+      "name": "Souk Sebt Oulad Nemma",
+      "lat": 32.2948,
+      "lon": -6.7007,
+      "province_id": "FQUIH_BEN_SALAH",
+      "note_en": "Largely cut off during the 2024 Afourar shutdown; storage too small for its growth.",
+      "note_fr": "Largement privée d'eau lors de l'arrêt d'Afourar en 2024 ; stockage insuffisant.",
+      "source_ids": [
+        "S32"
+      ]
+    },
+    {
+      "name": "Oulad Ayad",
+      "lat": 32.2011,
+      "lon": -6.7992,
+      "province_id": "FQUIH_BEN_SALAH",
+      "note_en": "Local boreholes dried up - now fully dependent on one plant (Afourar).",
+      "note_fr": "Forages locaux asséchés - dépend désormais d'une seule station (Afourar).",
+      "source_ids": [
+        "S32"
+      ]
+    },
+    {
+      "name": "Fquih Ben Salah",
+      "lat": 32.5021,
+      "lon": -6.6877,
+      "province_id": "FQUIH_BEN_SALAH",
+      "note_en": "More than 5 days without water after a borehole failure in the 2020 heat.",
+      "note_fr": "Plus de 5 jours sans eau après une panne de forage pendant la chaleur de 2020.",
+      "source_ids": [
+        "S48"
+      ]
+    },
+    {
+      "name": "Khouribga",
+      "lat": 32.8811,
+      "lon": -6.9063,
+      "province_id": "KHOURIBGA",
+      "note_en": "48-hour total cut (2020); 3 days of partial cuts after a pipeline leak (Aug 2025).",
+      "note_fr": "48 h de coupure totale (2020) ; 3 jours de coupures partielles après une fuite (août 2025).",
+      "source_ids": [
+        "S52",
+        "S51"
+      ]
+    },
+    {
+      "name": "Oued Zem",
+      "lat": 32.8627,
+      "lon": -6.5736,
+      "province_id": "KHOURIBGA",
+      "note_en": "Cuts of 2-3 days without notice (2024, 2025).",
+      "note_fr": "Coupures de 2-3 jours sans préavis (2024, 2025).",
+      "source_ids": [
+        "S61",
+        "S51"
+      ]
+    },
+    {
+      "name": "Demnate",
+      "lat": 31.7344,
+      "lon": -7.005,
+      "province_id": "AZILAL",
+      "note_en": "Recurring cuts for over a decade, still reported in August 2026.",
+      "note_fr": "Coupures récurrentes depuis plus de dix ans, encore signalées en août 2026.",
+      "source_ids": [
+        "S42",
+        "S63"
+      ]
+    },
+    {
+      "name": "Azilal (Tifert n'Aït Hamza)",
+      "lat": 31.9616,
+      "lon": -6.5711,
+      "province_id": "AZILAL",
+      "note_en": "Village-wide open-ended sit-in over thirst (June 2026).",
+      "note_fr": "Sit-in illimité de tout le village contre la soif (juin 2026).",
+      "source_ids": [
+        "S38",
+        "S107"
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "P_MULTIDAY_CUTS",
+      "category": "daily_life",
+      "icon": "🚱",
+      "severity": 3,
+      "provinces": [
+        "KHENIFRA",
+        "KHOURIBGA",
+        "FQUIH_BEN_SALAH",
+        "AZILAL"
+      ],
+      "title_en": "Days without a drop",
+      "title_fr": "Des jours sans une goutte",
+      "desc_en": "Multi-day outages hit during heatwaves and Eid: 6 days in Moulay Bouazza (2026), 3 days in Khouribga and Oued Zem (2025), 5 days in Fquih Ben Salah (2020).",
+      "desc_fr": "Des coupures de plusieurs jours en pleine canicule ou pendant l'Aïd : 6 jours à Moulay Bouazza (2026), 3 jours à Khouribga et Oued Zem (2025), 5 jours à Fquih Ben Salah (2020).",
+      "source_ids": [
+        "S44",
+        "S51",
+        "S48"
+      ]
+    },
+    {
+      "id": "P_RATIONING",
+      "category": "daily_life",
+      "icon": "🌙",
+      "severity": 2,
+      "provinces": [
+        "BENI_MELLAL",
+        "KHOURIBGA"
+      ],
+      "title_en": "Night-time rationing",
+      "title_fr": "Rationnement nocturne",
+      "desc_en": "In June 2022 Béni Mellal districts lost water every night (e.g. 20:00-07:00 in the old medina); Khouribga had nightly cuts from 23:00 in 2020.",
+      "desc_fr": "En juin 2022, des quartiers de Béni Mellal étaient privés d'eau chaque nuit (ex. 20h-7h dans l'ancienne médina) ; Khouribga a subi des coupures nocturnes dès 23h en 2020.",
+      "source_ids": [
+        "S30",
+        "S52"
+      ]
+    },
+    {
+      "id": "P_NO_TAP",
+      "category": "daily_life",
+      "icon": "🏚️",
+      "severity": 3,
+      "provinces": [
+        "KHENIFRA",
+        "KHOURIBGA",
+        "REGION"
+      ],
+      "title_en": "No tap at home",
+      "title_fr": "Pas de robinet à la maison",
+      "desc_en": "Only 18.4% of rural households in Khénifra and 13.6% in Khouribga have running water (65.5% region-wide). Families rely on wells, springs and standpipes.",
+      "desc_fr": "Seuls 18,4 % des ménages ruraux de Khénifra et 13,6 % de Khouribga ont l'eau courante (65,5 % dans la région). Les familles dépendent de puits, sources et bornes-fontaines.",
+      "source_ids": [
+        "S27",
+        "S29",
+        "S24"
+      ]
+    },
+    {
+      "id": "P_WALKING",
+      "category": "daily_life",
+      "icon": "🚶‍♀️",
+      "severity": 3,
+      "provinces": [
+        "AZILAL",
+        "BENI_MELLAL"
+      ],
+      "title_en": "Walking hours to fetch water",
+      "title_fr": "Marcher des heures pour chercher l'eau",
+      "desc_en": "In douar Ifesfas, women, children and men walk up to 8 km (3-4 hours) to the only well, which belongs to a private farmer.",
+      "desc_fr": "Au douar Ifesfas, femmes, enfants et hommes marchent jusqu'à 8 km (3-4 heures) jusqu'à l'unique puits, propriété d'un agriculteur.",
+      "source_ids": [
+        "S37",
+        "S40"
+      ]
+    },
+    {
+      "id": "P_TANKERS",
+      "category": "daily_life",
+      "icon": "🚚",
+      "severity": 2,
+      "provinces": [
+        "BENI_MELLAL",
+        "FQUIH_BEN_SALAH"
+      ],
+      "title_en": "Villages on tanker trucks",
+      "title_fr": "Des villages ravitaillés par citernes",
+      "desc_en": "Unconnected villages depend on tanker trucks: 14 trucks were bought for rural communes in 2024; governors answer protests with more tankers.",
+      "desc_fr": "Les villages non raccordés dépendent des camions-citernes : 14 camions achetés pour les communes rurales en 2024 ; les gouverneurs répondent aux protestations par davantage de citernes.",
+      "source_ids": [
+        "S36",
+        "S49",
+        "S35"
+      ]
+    },
+    {
+      "id": "P_QUALITY",
+      "category": "daily_life",
+      "icon": "🧪",
+      "severity": 2,
+      "provinces": [
+        "KHENIFRA",
+        "BENI_MELLAL",
+        "KHOURIBGA"
+      ],
+      "title_en": "Muddy, salty or bad-tasting water",
+      "title_fr": "Eau boueuse, salée ou au goût douteux",
+      "desc_en": "Storm turbidity halts treatment plants (Afourar 2024); residents of Moulay Bouazza and M'rirt complain of salty water; Khouribga protesters denounced its taste and smell.",
+      "desc_fr": "La turbidité après les orages arrête les stations (Afourar 2024) ; Moulay Bouazza et M'rirt se plaignent d'une eau salée ; à Khouribga, des manifestants ont dénoncé son goût et son odeur.",
+      "source_ids": [
+        "S33",
+        "S45",
+        "S47",
+        "S65"
+      ]
+    },
+    {
+      "id": "P_PRESSURE",
+      "category": "daily_life",
+      "icon": "🏢",
+      "severity": 1,
+      "provinces": [
+        "KHOURIBGA",
+        "BENI_MELLAL"
+      ],
+      "title_en": "Upper floors stay dry",
+      "title_fr": "Les étages restent à sec",
+      "desc_en": "When water returns, pressure is too weak for upper storeys; Béni Mellal civil society also lists leaks, worn pipes and opaque bills.",
+      "desc_fr": "Quand l'eau revient, la pression est trop faible pour les étages ; la société civile de Béni Mellal dénonce aussi fuites, conduites usées et factures opaques.",
+      "source_ids": [
+        "S60",
+        "S57"
+      ]
+    },
+    {
+      "id": "P_NO_WARNING",
+      "category": "daily_life",
+      "icon": "📵",
+      "severity": 1,
+      "provinces": [
+        "AZILAL",
+        "KHOURIBGA"
+      ],
+      "title_en": "Cuts without warning",
+      "title_fr": "Coupures sans préavis",
+      "desc_en": "Residents are rarely told why or for how long: 41 Khouribga associations protested repeated unannounced cuts during a heatwave.",
+      "desc_fr": "Les habitants sont rarement informés des causes ou de la durée : 41 associations de Khouribga ont dénoncé des coupures répétées sans préavis en pleine canicule.",
+      "source_ids": [
+        "S53",
+        "S42"
+      ]
+    },
+    {
+      "id": "P_PROTESTS",
+      "category": "economy",
+      "icon": "📢",
+      "severity": 2,
+      "provinces": [
+        "AZILAL",
+        "BENI_MELLAL",
+        "KHENIFRA"
+      ],
+      "title_en": "Thirst marches and sit-ins",
+      "title_fr": "Marches de la soif et sit-in",
+      "desc_en": "Mountain villages marched to provincial seats in 2025 and 2026; a whole village began an open-ended sit-in in June 2026.",
+      "desc_fr": "Des villages de montagne ont marché vers les chefs-lieux en 2025 et 2026 ; tout un village a entamé un sit-in illimité en juin 2026.",
+      "source_ids": [
+        "S40",
+        "S41",
+        "S38"
+      ]
+    },
+    {
+      "id": "P_BUSINESS",
+      "category": "economy",
+      "icon": "🧼",
+      "severity": 1,
+      "provinces": [
+        "BENI_MELLAL"
+      ],
+      "title_en": "Hammams and car washes closed",
+      "title_fr": "Hammams et stations de lavage fermés",
+      "desc_en": "From January 2024, Béni Mellal ordered hammams and car washes to close Monday to Wednesday to save water.",
+      "desc_fr": "Dès janvier 2024, Béni Mellal a imposé la fermeture des hammams et stations de lavage du lundi au mercredi.",
+      "source_ids": [
+        "S31"
+      ]
+    },
+    {
+      "id": "P_IRR_SUSPENDED",
+      "category": "agriculture",
+      "icon": "🚫",
+      "severity": 3,
+      "provinces": [
+        "FQUIH_BEN_SALAH",
+        "BENI_MELLAL"
+      ],
+      "title_en": "Irrigation canals ran dry",
+      "title_fr": "Les canaux d'irrigation à sec",
+      "desc_en": "Béni Amir irrigation was halted from October 2021 to protect drinking water; in 2023-24 Tadla farms received only 56 Mm³ from the dams, against a design allocation of about 1,130 Mm³.",
+      "desc_fr": "L'irrigation des Béni Amir a été arrêtée dès octobre 2021 pour protéger l'eau potable ; en 2023-24, les fermes du Tadla n'ont reçu que 56 Mm³ des barrages, pour une dotation prévue d'environ 1 130 Mm³.",
+      "source_ids": [
+        "S76",
+        "S77",
+        "S71",
+        "S20"
+      ]
+    },
+    {
+      "id": "P_ORCHARDS",
+      "category": "agriculture",
+      "icon": "🫒",
+      "severity": 3,
+      "provinces": [
+        "BENI_MELLAL",
+        "FQUIH_BEN_SALAH"
+      ],
+      "title_en": "Orchards dying, harvests halved",
+      "title_fr": "Vergers qui meurent, récoltes divisées par deux",
+      "desc_en": "Tadla olive output fell from about 120,000 t in a normal year to 44,000 t (2023-24); citrus area shrank 15% since 2021 and growers uprooted trees they could no longer water.",
+      "desc_fr": "La production d'olives du Tadla est passée d'environ 120 000 t en année normale à 44 000 t (2023-24) ; les agrumes ont perdu 15 % de surface depuis 2021 et des arbres ont été arrachés faute d'eau.",
+      "source_ids": [
+        "S78",
+        "S84",
+        "S85"
+      ]
+    },
+    {
+      "id": "P_BEET",
+      "category": "agriculture",
+      "icon": "🌱",
+      "severity": 2,
+      "provinces": [
+        "FQUIH_BEN_SALAH",
+        "BENI_MELLAL"
+      ],
+      "title_en": "Sugar beet collapse",
+      "title_fr": "Effondrement de la betterave",
+      "desc_en": "Only 7,204 ha of sugar beet were sown in 2024-25 against a 10,000 ha programme; the region normally supplies 28% of national beet.",
+      "desc_fr": "Seuls 7 204 ha de betterave ont été semés en 2024-25 pour un programme de 10 000 ha ; la région fournit normalement 28 % de la betterave nationale.",
+      "source_ids": [
+        "S82",
+        "S75"
+      ]
+    },
+    {
+      "id": "P_WELLS_DEEPER",
+      "category": "agriculture",
+      "icon": "⬇️",
+      "severity": 3,
+      "provinces": [
+        "FQUIH_BEN_SALAH",
+        "BENI_MELLAL"
+      ],
+      "title_en": "Wells chasing a falling water table",
+      "title_fr": "Des puits qui poursuivent une nappe en baisse",
+      "desc_en": "About 8,300 wells supply over half of Tadla's irrigation; a farmer's well went from 20 m to 40 m deep in ten years, and town boreholes dried up.",
+      "desc_fr": "Environ 8 300 puits fournissent plus de la moitié de l'irrigation du Tadla ; le puits d'un agriculteur est passé de 20 à 40 m de profondeur en dix ans, et des forages urbains se sont asséchés.",
+      "source_ids": [
+        "S72",
+        "S79",
+        "S50"
+      ]
+    },
+    {
+      "id": "P_JOBS",
+      "category": "economy",
+      "icon": "👷",
+      "severity": 3,
+      "provinces": [
+        "REGION"
+      ],
+      "title_en": "Farm jobs lost",
+      "title_fr": "Emplois agricoles perdus",
+      "desc_en": "About 60,000 farm jobs were lost in the region during the drought; abandoned plots and dry canals were reported around Afourer.",
+      "desc_fr": "Environ 60 000 emplois agricoles ont été perdus dans la région pendant la sécheresse ; parcelles abandonnées et canaux à sec signalés autour d'Afourer.",
+      "confidence": "medium",
+      "source_ids": [
+        "S79"
+      ]
+    },
+    {
+      "id": "P_LIVESTOCK",
+      "category": "agriculture",
+      "icon": "🐑",
+      "severity": 2,
+      "provinces": [
+        "KHENIFRA",
+        "AZILAL"
+      ],
+      "title_en": "Herds sold off",
+      "title_fr": "Des troupeaux vendus",
+      "desc_en": "Mountain herders depend on subsidised barley (≈168,000 herders served in 2021); a dairy farmer went from 18 cows to 8 as fodder costs soared.",
+      "desc_fr": "Les éleveurs de montagne dépendent de l'orge subventionnée (≈168 000 éleveurs servis en 2021) ; un éleveur laitier est passé de 18 à 8 vaches face à la flambée du fourrage.",
+      "confidence": "medium",
+      "source_ids": [
+        "S102",
+        "S79"
+      ]
+    },
+    {
+      "id": "P_GW_POLLUTION",
+      "category": "environment",
+      "icon": "☣️",
+      "severity": 2,
+      "provinces": [
+        "FQUIH_BEN_SALAH",
+        "BENI_MELLAL"
+      ],
+      "title_en": "Salty, nitrate-loaded groundwater",
+      "title_fr": "Nappe salée et chargée en nitrates",
+      "desc_en": "Most Béni Amir wells show high salinity (4-7 mS/cm) and nitrates reached 95 mg/l; pollution from flood irrigation, sugar mills and wastewater is still described as elevated.",
+      "desc_fr": "La plupart des puits des Béni Amir sont très salés (4-7 mS/cm) et les nitrates ont atteint 95 mg/l ; la pollution liée à l'irrigation gravitaire, aux sucreries et aux eaux usées reste élevée.",
+      "source_ids": [
+        "S86",
+        "S77"
+      ]
+    },
+    {
+      "id": "P_RIVERS_DRY",
+      "category": "environment",
+      "icon": "🏜️",
+      "severity": 2,
+      "provinces": [
+        "KHENIFRA",
+        "AZILAL"
+      ],
+      "title_en": "Rivers and springs running dry",
+      "title_fr": "Rivières et sources qui s'assèchent",
+      "desc_en": "The Oued Chbouka, an Oum Er-Rbia tributary, nearly dried up in 2022 (residents blamed pumping and illegal hill dams); Aknan's village river dried completely in 2025.",
+      "desc_fr": "L'oued Chbouka, affluent de l'Oum Er-Rbia, s'est presque asséché en 2022 (pompages et barrages collinaires illégaux pointés) ; la rivière d'Aknan s'est totalement asséchée en 2025.",
+      "source_ids": [
+        "S46",
+        "S39"
+      ]
+    }
+  ],
+  "root_causes": [
+    {
+      "id": "RC_DROUGHT",
+      "group": "climate",
+      "icon": "☀️",
+      "title_en": "Seven dry years in a row",
+      "title_fr": "Sept années sèches d'affilée",
+      "desc_en": "Morocco's longest modern drought (2018-2025). 2023-24 was the driest year in 63 years.",
+      "desc_fr": "La plus longue sécheresse moderne du Maroc (2018-2025). 2023-24 a été l'année la plus sèche depuis 63 ans.",
+      "evidence_en": "Basin rainfall −44.6% in 2023-24; dams at 4.4% in Sept 2024.",
+      "evidence_fr": "Pluie du bassin −44,6 % en 2023-24 ; barrages à 4,4 % en sept. 2024.",
+      "source_ids": [
+        "S9",
+        "S10",
+        "S11",
+        "S6",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "id": "RC_HEAT",
+      "group": "climate",
+      "icon": "🌡️",
+      "title_en": "Heat turns a dry year into a water collapse",
+      "title_fr": "La chaleur transforme une année sèche en effondrement",
+      "desc_en": "Warmer air evaporates more from soils, crops and lakes, so far less rain reaches rivers and aquifers.",
+      "desc_fr": "Un air plus chaud évapore davantage des sols, cultures et lacs : bien moins de pluie atteint rivières et nappes.",
+      "evidence_en": "+2.1 °C in the region in 2024; rainfall −45% turned into inflows −76%.",
+      "evidence_fr": "+2,1 °C dans la région en 2024 ; une pluie de −45 % a donné des apports de −76 %.",
+      "source_ids": [
+        "S10",
+        "S11"
+      ]
+    },
+    {
+      "id": "RC_SNOW",
+      "group": "climate",
+      "icon": "🏔️",
+      "title_en": "The Atlas 'water tower' is melting away",
+      "title_fr": "Le « château d'eau » de l'Atlas fond",
+      "desc_en": "Snow stores winter water and releases it in spring. Less snow means earlier, flashier floods and dry summers.",
+      "desc_fr": "La neige stocke l'eau de l'hiver et la restitue au printemps. Moins de neige : crues plus précoces et étés plus secs.",
+      "evidence_en": "2024 snow cover exceptionally low; projected snow water −60 to −85% by 2100.",
+      "evidence_fr": "Enneigement 2024 exceptionnellement faible ; eau de neige projetée −60 à −85 % d'ici 2100.",
+      "source_ids": [
+        "S10",
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "id": "RC_BUDGET",
+      "group": "overuse",
+      "icon": "📉",
+      "title_en": "The basin uses more than it receives",
+      "title_fr": "Le bassin consomme plus qu'il ne reçoit",
+      "desc_en": "Agriculture uses over 3.4 bn m³ a year against 0.26 bn m³ for drinking water, while average resources are 3.3 bn m³.",
+      "desc_fr": "L'agriculture utilise plus de 3,4 Md m³ par an contre 0,26 Md m³ pour l'eau potable, pour des ressources moyennes de 3,3 Md m³.",
+      "evidence_en": "Demand ≥ 3.66 bn m³ vs. 3.3 bn m³ of resources.",
+      "evidence_fr": "Demande ≥ 3,66 Md m³ pour 3,3 Md m³ de ressources.",
+      "source_ids": [
+        "S12"
+      ]
+    },
+    {
+      "id": "RC_AQUIFERS",
+      "group": "overuse",
+      "icon": "⛏️",
+      "title_en": "Aquifers mined faster than they refill",
+      "title_fr": "Des nappes vidées plus vite qu'elles ne se rechargent",
+      "desc_en": "When dam water stops, farmers pump harder; water tables fall and town boreholes dry up.",
+      "desc_fr": "Quand l'eau des barrages manque, les agriculteurs pompent davantage ; les nappes baissent et les forages des villes s'assèchent.",
+      "evidence_en": "≈300 Mm³/yr overdraft across 12 aquifers; Oulad Ayad's boreholes ran dry.",
+      "evidence_fr": "≈300 Mm³/an de surexploitation sur 12 nappes ; les forages d'Oulad Ayad se sont asséchés.",
+      "source_ids": [
+        "S12",
+        "S32",
+        "S50"
+      ]
+    },
+    {
+      "id": "RC_REBOUND",
+      "group": "overuse",
+      "icon": "🔁",
+      "title_en": "Water 'saved' by drip is spent again",
+      "title_fr": "L'eau « économisée » par le goutte-à-goutte est redépensée",
+      "desc_en": "Drip subsidies helped farmers plant denser, thirstier crops and expand area, while they kept pumping groundwater.",
+      "desc_fr": "Les subventions au goutte-à-goutte ont permis des cultures plus denses et plus gourmandes et l'extension des surfaces, sans réduire le pompage.",
+      "evidence_en": "No field-scale saving measured on a 10,000 ha Tadla drip project.",
+      "evidence_fr": "Aucune économie mesurée à la parcelle sur un projet de 10 000 ha au Tadla.",
+      "source_ids": [
+        "S87",
+        "S88"
+      ]
+    },
+    {
+      "id": "RC_CANAL_LOSSES",
+      "group": "infrastructure",
+      "icon": "🕳️",
+      "title_en": "Leaky canals and pipes",
+      "title_fr": "Canaux et conduites qui fuient",
+      "desc_en": "Old earthen and concrete canals lose a large share of irrigation water before it reaches fields; urban networks lose a third of drinking water.",
+      "desc_fr": "Les vieux canaux perdent une grande part de l'eau d'irrigation avant les champs ; les réseaux urbains perdent un tiers de l'eau potable.",
+      "evidence_en": "50-60% of irrigation water and 30-40% of drinking water lost (minister, 2026).",
+      "evidence_fr": "50-60 % de l'eau d'irrigation et 30-40 % de l'eau potable perdues (ministre, 2026).",
+      "source_ids": [
+        "S89",
+        "S90"
+      ]
+    },
+    {
+      "id": "RC_SINGLE_SOURCE",
+      "group": "infrastructure",
+      "icon": "🔗",
+      "title_en": "One plant, one pipe, one failure",
+      "title_fr": "Une station, une conduite, une panne",
+      "desc_en": "Whole towns hang on a single plant or a pipeline tens of kilometres long; one fault cuts tens of thousands of people for days.",
+      "desc_fr": "Des villes entières dépendent d'une seule station ou d'une conduite de plusieurs dizaines de km ; une panne prive des dizaines de milliers d'habitants pendant des jours.",
+      "evidence_en": "Afourar ≈ 2/3 of Béni Mellal's water; Khouribga 80 km and Moulay Bouazza 85 km pipelines.",
+      "evidence_fr": "Afourar ≈ 2/3 de l'eau de Béni Mellal ; conduites de 80 km (Khouribga) et 85 km (Moulay Bouazza).",
+      "source_ids": [
+        "S32",
+        "S51",
+        "S45"
+      ]
+    },
+    {
+      "id": "RC_TURBIDITY",
+      "group": "infrastructure",
+      "icon": "⛈️",
+      "title_en": "Storms that cut the water",
+      "title_fr": "Des orages qui coupent l'eau",
+      "desc_en": "After a drought, the first floods wash mud into near-empty reservoirs and treatment plants must stop.",
+      "desc_fr": "Après la sécheresse, les premières crues charrient de la boue vers des retenues presque vides et les stations doivent s'arrêter.",
+      "evidence_en": "Aug 2024: >10 Mm³ of muddy water stopped the Afourar plant for ~4 days.",
+      "evidence_fr": "Août 2024 : >10 Mm³ d'eau boueuse ont arrêté la station d'Afourar ~4 jours.",
+      "source_ids": [
+        "S32",
+        "S33"
+      ]
+    },
+    {
+      "id": "RC_STORAGE",
+      "group": "infrastructure",
+      "icon": "🛢️",
+      "title_en": "Too little storage, leaky networks",
+      "title_fr": "Trop peu de stockage, réseaux qui fuient",
+      "desc_en": "Town reservoirs hold less than a day of demand, so any breakdown becomes a cut; old pipes leak.",
+      "desc_fr": "Les réservoirs des villes couvrent moins d'une journée de demande, donc toute panne devient une coupure ; les vieilles conduites fuient.",
+      "evidence_en": "58% of RADEET's 502 MDH plan targets network efficiency; target: 24 h autonomy per centre.",
+      "evidence_fr": "58 % du plan de 502 MDH de la RADEET visent le rendement ; objectif : 24 h d'autonomie par centre.",
+      "source_ids": [
+        "S32",
+        "S57"
+      ]
+    },
+    {
+      "id": "RC_RURAL_GAP",
+      "group": "infrastructure",
+      "icon": "🏘️",
+      "title_en": "Rural networks never built",
+      "title_fr": "Des réseaux ruraux jamais construits",
+      "desc_en": "Scattered mountain douars were left out of networks; they depend on springs and wells that fail first in droughts.",
+      "desc_fr": "Les douars de montagne dispersés sont restés hors réseau ; ils dépendent de sources et puits qui lâchent en premier.",
+      "evidence_en": "Rural running water: 18.4% in Khénifra, 13.6% in Khouribga.",
+      "evidence_fr": "Eau courante rurale : 18,4 % à Khénifra, 13,6 % à Khouribga.",
+      "source_ids": [
+        "S27",
+        "S29",
+        "S24"
+      ]
+    },
+    {
+      "id": "RC_EXPORTS",
+      "group": "governance",
+      "icon": "➡️",
+      "title_en": "Upstream water flows to the cities downstream",
+      "title_fr": "L'eau de l'amont part vers les villes de l'aval",
+      "desc_en": "Al Massira supplies Casablanca, Marrakech and the Doukkala plain; in droughts upstream dams in the region release water to keep it alive.",
+      "desc_fr": "Al Massira alimente Casablanca, Marrakech et la plaine des Doukkala ; en sécheresse, les barrages de la région lâchent de l'eau pour la maintenir.",
+      "evidence_en": "≈690 Mm³ transferred from upstream dams to Al Massira in 2025-26; Marrakech pipeline 216,000 m³/day.",
+      "evidence_fr": "≈690 Mm³ transférés des barrages amont vers Al Massira en 2025-26 ; conduite de Marrakech 216 000 m³/jour.",
+      "source_ids": [
+        "S4",
+        "S16",
+        "S17",
+        "S110"
+      ]
+    },
+    {
+      "id": "RC_FARMERS_LAST",
+      "group": "governance",
+      "icon": "⚖️",
+      "title_en": "Tadla farmers pay first",
+      "title_fr": "Les agriculteurs du Tadla paient en premier",
+      "desc_en": "When reservoirs fall, drinking water for downstream cities takes priority and Tadla irrigation is cut - legally sound, but the upstream region bears the loss.",
+      "desc_fr": "Quand les barrages baissent, l'eau potable des villes de l'aval passe en priorité et l'irrigation du Tadla est coupée - conforme à la loi, mais la région amont supporte la perte.",
+      "evidence_en": "100 Mm³ (2022) and 323 Mm³ (2026) moved from Ahmed El Hansali to Al Massira; Casablanca took 109 Mm³ from the Oum Er-Rbia in 2021.",
+      "evidence_fr": "100 Mm³ (2022) et 323 Mm³ (2026) transférés d'Ahmed El Hansali vers Al Massira ; Casablanca a prélevé 109 Mm³ dans l'Oum Er-Rbia en 2021.",
+      "source_ids": [
+        "S76",
+        "S80",
+        "S78",
+        "S109"
+      ]
+    },
+    {
+      "id": "RC_PRICE",
+      "group": "governance",
+      "icon": "🏷️",
+      "title_en": "Water priced far below its cost",
+      "title_fr": "Une eau vendue bien en dessous de son coût",
+      "desc_en": "Cheap water weakens the incentive to save and starves utilities of money for maintenance.",
+      "desc_fr": "Une eau bon marché n'incite pas à économiser et prive les opérateurs de moyens pour l'entretien.",
+      "evidence_en": "≈15 DH/m³ to deliver vs 2.5-3 DH/m³ billed in the social tiers (85% of users).",
+      "evidence_fr": "≈15 DH/m³ pour la livrer contre 2,5-3 DH/m³ facturés dans les tranches sociales (85 % des usagers).",
+      "source_ids": [
+        "S98"
+      ]
+    },
+    {
+      "id": "RC_GOVERNANCE",
+      "group": "governance",
+      "icon": "🏛️",
+      "title_en": "Slow projects, operator in transition",
+      "title_fr": "Projets lents, opérateur en transition",
+      "desc_en": "Distribution moved to a new regional company (SRM) in 2025; residents report no improvement yet, and some projects stall for years.",
+      "desc_fr": "La distribution est passée à la nouvelle SRM en 2025 ; les habitants ne constatent pas encore d'amélioration, et certains projets restent bloqués des années.",
+      "evidence_en": "Demnate dam connection (2008) reported stalled; 11.37 bn MAD SRM plan for 2026-2030.",
+      "evidence_fr": "Raccordement de Demnate (2008) signalé à l'arrêt ; plan SRM de 11,37 Md DH pour 2026-2030.",
+      "source_ids": [
+        "S64",
+        "S56",
+        "S43"
+      ]
+    }
+  ],
+  "solutions": [
+    {
+      "id": "SOL_LEAKS",
+      "lever": "leak_reduction_pts",
+      "icon": "🔧",
+      "horizon": "medium",
+      "cost": "medium",
+      "impact": 3,
+      "title_en": "Fix leaks & manage pressure",
+      "title_fr": "Réparer les fuites, gérer la pression",
+      "desc_en": "Leak detection, pressure zones, pipe renewal and metering on town networks.",
+      "desc_fr": "Détection de fuites, sectorisation de la pression, renouvellement des conduites et comptage.",
+      "potential_en": "30-40% of drinking water is lost; raising efficiency from ~68% to 80% frees ~15% of production without a new drop.",
+      "potential_fr": "30-40 % de l'eau potable est perdue ; passer de ~68 % à 80 % de rendement libère ~15 % de la production sans une goutte nouvelle.",
+      "barriers_en": "Slow procurement, ageing pipes, operator transition to the SRM.",
+      "barriers_fr": "Marchés lents, conduites vétustes, transition vers la SRM.",
+      "source_ids": [
+        "S89",
+        "S99",
+        "S32",
+        "S90"
+      ]
+    },
+    {
+      "id": "SOL_STORAGE",
+      "lever": "storage_autonomy_h",
+      "icon": "🛢️",
+      "horizon": "short",
+      "cost": "medium",
+      "impact": 2,
+      "title_en": "24-hour storage tanks in every town",
+      "title_fr": "24 h de réserve dans chaque ville",
+      "desc_en": "Bigger town reservoirs turn a pipe break or a muddy-water shutdown into an invisible event.",
+      "desc_fr": "Des réservoirs plus grands rendent invisibles une casse de conduite ou un arrêt pour boue.",
+      "potential_en": "RADEET's plan earmarks 166 MDH for 24 h autonomy per centre; Khouribga is adding two 25,000 m³ reservoirs.",
+      "potential_fr": "Le plan de la RADEET prévoit 166 MDH pour 24 h d'autonomie par centre ; Khouribga ajoute deux réservoirs de 25 000 m³.",
+      "barriers_en": "Land, financing, and storage only helps if the source recovers within the autonomy window.",
+      "barriers_fr": "Foncier, financement, et le stockage n'aide que si la source revient dans le délai d'autonomie.",
+      "source_ids": [
+        "S32",
+        "S55"
+      ]
+    },
+    {
+      "id": "SOL_BACKUP",
+      "lever": "backup_source_pct",
+      "icon": "🔀",
+      "horizon": "medium",
+      "cost": "high",
+      "impact": 3,
+      "title_en": "A second source for every town",
+      "title_fr": "Une seconde source pour chaque ville",
+      "desc_en": "Double long pipelines, add borehole fields or interconnect plants so no town hangs on one asset.",
+      "desc_fr": "Doubler les longues conduites, ajouter des forages ou interconnecter les stations pour qu'aucune ville ne dépende d'un seul ouvrage.",
+      "potential_en": "Khouribga: 365 MDH for new transfer mains (first 14 km by Dec 2026); Souk Sebt and Oulad Ayad moved to Afourar water (134 MDH).",
+      "potential_fr": "Khouribga : 365 MDH pour de nouvelles conduites (14 premiers km fin 2026) ; Souk Sebt et Oulad Ayad basculés sur l'eau d'Afourar (134 MDH).",
+      "barriers_en": "High capital cost; a second source that taps the same dam is not a true backup.",
+      "barriers_fr": "Coût élevé ; une seconde source sur le même barrage n'est pas un vrai secours.",
+      "source_ids": [
+        "S55",
+        "S50",
+        "S114"
+      ]
+    },
+    {
+      "id": "SOL_RURAL",
+      "lever": "rural_connection_pct",
+      "icon": "🏘️",
+      "horizon": "long",
+      "cost": "high",
+      "impact": 3,
+      "title_en": "Connect the douars",
+      "title_fr": "Raccorder les douars",
+      "desc_en": "Extend networks and standpipes to scattered mountain villages under the national drinking-water programme (PNAEPI).",
+      "desc_fr": "Étendre réseaux et bornes-fontaines aux villages de montagne dans le cadre du PNAEPI.",
+      "potential_en": "El Kbab project: 226 km of pipes, 3,650 connections for 52 douars (89 MDH); regional water convention of 979 MDH.",
+      "potential_fr": "Projet d'El Kbab : 226 km de conduites, 3 650 branchements pour 52 douars (89 MDH) ; convention régionale de 979 MDH.",
+      "barriers_en": "Steep terrain, scattered homes, and every new tap needs a reliable source behind it.",
+      "barriers_fr": "Relief, habitat dispersé, et chaque nouveau robinet exige une source fiable.",
+      "source_ids": [
+        "S103",
+        "S58",
+        "S59",
+        "S66"
+      ]
+    },
+    {
+      "id": "SOL_INTERCONNECT",
+      "lever": "interconnection_mm3",
+      "icon": "🚰",
+      "horizon": "long",
+      "cost": "high",
+      "impact": 3,
+      "title_en": "Bring dam water to spring-dependent towns",
+      "title_fr": "Amener l'eau des barrages aux villes sur sources",
+      "desc_en": "Connect towns that rely on springs, wells or the upper river to treatment plants on the big dams - the structural fix for the mountain provinces.",
+      "desc_fr": "Raccorder les villes dépendant de sources, puits ou du fleuve amont aux stations des grands barrages - la réponse structurelle pour les provinces de montagne.",
+      "potential_en": "New dams Oued Lakhdar (150 Mm³) and Tagzirt (86 Mm³) under construction; M'rirt plant upgraded to 110 l/s by end-2027.",
+      "potential_fr": "Nouveaux barrages Oued Lakhdar (150 Mm³) et Tagzirt (86 Mm³) en construction ; station de M'rirt portée à 110 l/s fin 2027.",
+      "barriers_en": "Long pipelines uphill are costly to build and pump; they add a new single point of failure unless doubled.",
+      "barriers_fr": "Les longues conduites en montée coûtent cher à construire et à pomper ; elles créent un nouveau point de fragilité si elles ne sont pas doublées.",
+      "source_ids": [
+        "S94",
+        "S47"
+      ]
+    },
+    {
+      "id": "SOL_TARIFF",
+      "lever": "demand_saving_pct",
+      "icon": "🚿",
+      "horizon": "short",
+      "cost": "low",
+      "impact": 1,
+      "title_en": "Smarter tariffs & water-saving habits",
+      "title_fr": "Tarifs plus justes & économies d'eau",
+      "desc_en": "Progressive tariffs closer to cost, awareness campaigns and efficient fixtures, while protecting the social tiers.",
+      "desc_fr": "Tarifs progressifs plus proches du coût, sensibilisation et équipements économes, en protégeant les tranches sociales.",
+      "potential_en": "Delivering water costs ≈15 DH/m³ vs 2.5-3 DH billed to 85% of users - pricing reform funds maintenance.",
+      "potential_fr": "Livrer l'eau coûte ≈15 DH/m³ contre 2,5-3 DH facturés à 85 % des usagers - la réforme finance l'entretien.",
+      "barriers_en": "Social acceptability; low consumption already in poor households.",
+      "barriers_fr": "Acceptabilité sociale ; consommation déjà faible des ménages modestes.",
+      "source_ids": [
+        "S98"
+      ]
+    },
+    {
+      "id": "SOL_DRIP",
+      "lever": "drip_conversion_pct",
+      "icon": "💧",
+      "horizon": "medium",
+      "cost": "medium",
+      "impact": 2,
+      "title_en": "Drip irrigation - with a cap on area",
+      "title_fr": "Goutte-à-goutte - avec un plafond de surface",
+      "desc_en": "Convert the remaining flood-irrigated land, but pair it with pumping limits so savings are not re-spent.",
+      "desc_fr": "Convertir la surface encore gravitaire, en l'associant à des limites de pompage pour que les économies ne soient pas redépensées.",
+      "potential_en": "67,500 of 98,700 ha targeted already converted; efficiency target 50% → 90% in Béni Moussa (49,000 of 72,200 ha).",
+      "potential_fr": "67 500 des 98 700 ha visés déjà convertis ; objectif d'efficience 50 % → 90 % à Béni Moussa (49 000 sur 72 200 ha).",
+      "barriers_en": "Rebound effect, upfront cost (~60,000 DH per farm), complex subsidy files.",
+      "barriers_fr": "Effet rebond, coût initial (~60 000 DH par exploitation), dossiers de subvention complexes.",
+      "source_ids": [
+        "S75",
+        "S73",
+        "S87",
+        "S88"
+      ]
+    },
+    {
+      "id": "SOL_CANALS",
+      "lever": null,
+      "icon": "🛤️",
+      "horizon": "medium",
+      "cost": "high",
+      "impact": 2,
+      "title_en": "Modernise and automate canals",
+      "title_fr": "Moderniser et automatiser les canaux",
+      "desc_en": "Line and automate the big Béni Amir / Béni Moussa canals so water arrives on time with fewer losses.",
+      "desc_fr": "Revêtir et automatiser les grands canaux Béni Amir / Béni Moussa pour livrer l'eau à temps avec moins de pertes.",
+      "potential_en": "310 of ~400 km modernised (2015-2023); Béni Moussa canal automation contract awarded in 2026.",
+      "potential_fr": "310 des ~400 km modernisés (2015-2023) ; contrat d'automatisation du canal de Béni Moussa attribué en 2026.",
+      "barriers_en": "Cost and works that interrupt irrigation seasons.",
+      "barriers_fr": "Coût et travaux qui interrompent les campagnes.",
+      "source_ids": [
+        "S74",
+        "S73"
+      ]
+    },
+    {
+      "id": "SOL_REUSE",
+      "lever": "reuse_mm3",
+      "icon": "♻️",
+      "horizon": "short",
+      "cost": "high",
+      "impact": 1,
+      "title_en": "Reuse treated wastewater",
+      "title_fr": "Réutiliser les eaux usées traitées",
+      "desc_en": "Regional treatment plants already send ~16.7 Mm³/yr to OCP, freeing fresh water; more could reach farms and green spaces.",
+      "desc_fr": "Les stations régionales envoient déjà ~16,7 Mm³/an à l'OCP, libérant de l'eau douce ; davantage pourrait aller aux fermes et espaces verts.",
+      "potential_en": "Béni Mellal 9, Fquih Ben Salah 5.5, Kasba Tadla 2.2 Mm³/yr; national target 100 Mm³/yr by 2027.",
+      "potential_fr": "Béni Mellal 9, Fquih Ben Salah 5,5, Kasba Tadla 2,2 Mm³/an ; objectif national 100 Mm³/an en 2027.",
+      "barriers_en": "Treatment cost (593-884 MDH per plant) and effluent already committed to industry.",
+      "barriers_fr": "Coût du traitement (593-884 MDH par station) et effluents déjà engagés pour l'industrie.",
+      "source_ids": [
+        "S91",
+        "S92"
+      ]
+    },
+    {
+      "id": "SOL_AQUIFER_CONTRACT",
+      "lever": "groundwater_cap_pct",
+      "icon": "📜",
+      "horizon": "medium",
+      "cost": "low",
+      "impact": 2,
+      "title_en": "An aquifer contract for Tadla",
+      "title_fr": "Un contrat de nappe pour le Tadla",
+      "desc_en": "Register and meter wells, set a sustainable pumping budget and share it among users (law 36-15).",
+      "desc_fr": "Recenser et compter les puits, fixer un volume prélevable durable et le répartir entre usagers (loi 36-15).",
+      "potential_en": "No Tadla contract signed yet; a Haouz study shows aquifers recover if irrigated area falls ~25%.",
+      "potential_fr": "Aucun contrat signé pour le Tadla ; une étude du Haouz montre que la nappe se reconstitue si la surface irriguée baisse d'~25 %.",
+      "barriers_en": "Thousands of informal wells, enforcement, farmers' incomes in drought years.",
+      "barriers_fr": "Milliers de puits informels, contrôle, revenus des agriculteurs en sécheresse.",
+      "source_ids": [
+        "S95",
+        "S96",
+        "S72"
+      ]
+    },
+    {
+      "id": "SOL_DESAL",
+      "lever": "desal_mm3",
+      "icon": "🌊",
+      "horizon": "long",
+      "cost": "high",
+      "impact": 3,
+      "title_en": "Desalination on the coast frees Oum Er-Rbia water",
+      "title_fr": "Le dessalement côtier libère l'eau de l'Oum Er-Rbia",
+      "desc_en": "Every m³ of Casablanca's water from the sea is a m³ that upstream dams no longer have to release.",
+      "desc_fr": "Chaque m³ d'eau de mer pour Casablanca est un m³ que les barrages amont n'ont plus à lâcher.",
+      "potential_en": "Casablanca plant: 200 Mm³/yr in Feb 2027, 300 Mm³/yr by 2028 (50 Mm³ for agriculture); OCP Khouribga already on 80 Mm³/yr of desalinated water.",
+      "potential_fr": "Station de Casablanca : 200 Mm³/an en février 2027, 300 Mm³/an en 2028 (dont 50 Mm³ pour l'agriculture) ; l'OCP Khouribga est déjà sur 80 Mm³/an d'eau dessalée.",
+      "barriers_en": "Energy cost, commissioning delays, and freed water must be formally reallocated upstream.",
+      "barriers_fr": "Coût énergétique, retards de mise en service, et l'eau libérée doit être réaffectée formellement à l'amont.",
+      "source_ids": [
+        "S13",
+        "S14",
+        "S111",
+        "S100",
+        "S93"
+      ]
+    },
+    {
+      "id": "SOL_SEBOU",
+      "lever": null,
+      "icon": "🛣️",
+      "horizon": "long",
+      "cost": "high",
+      "impact": 3,
+      "title_en": "Sebou → Al Massira water highway",
+      "title_fr": "Autoroute de l'eau Sebou → Al Massira",
+      "desc_en": "Phase 2 of the inter-basin transfer would carry surplus northern water to Al Massira.",
+      "desc_fr": "La phase 2 du transfert inter-bassins acheminerait les excédents du nord vers Al Massira.",
+      "potential_en": "≈800 Mm³/yr over 210 km; studies due by end-2026.",
+      "potential_fr": "≈800 Mm³/an sur 210 km ; études attendues fin 2026.",
+      "barriers_en": "Cost, energy and dependence on the Sebou having surplus in dry years.",
+      "barriers_fr": "Coût, énergie, et dépendance aux excédents du Sebou en année sèche.",
+      "source_ids": [
+        "S15"
+      ]
+    },
+    {
+      "id": "SOL_CROPS",
+      "lever": null,
+      "icon": "🌾",
+      "horizon": "medium",
+      "cost": "low",
+      "impact": 2,
+      "title_en": "Shift to drought-tolerant crops",
+      "title_fr": "Passer à des cultures plus sobres",
+      "desc_en": "Fewer water-hungry crops (alfalfa, some citrus) and more resilient ones such as olives and cereals.",
+      "desc_fr": "Moins de cultures gourmandes (luzerne, certains agrumes), plus de cultures résistantes comme l'olivier et les céréales.",
+      "potential_en": "Farmers already shift to olives as 'the only crop that resists'; alfalfa → wheat was proposed for a sustainable balance.",
+      "potential_fr": "Les agriculteurs se tournent déjà vers l'olivier, « seule culture qui résiste » ; un passage luzerne → blé a été proposé.",
+      "barriers_en": "Income loss, livestock feed needs, market contracts (sugar beet).",
+      "barriers_fr": "Perte de revenu, besoins fourragers, contrats de marché (betterave).",
+      "confidence": "medium",
+      "source_ids": [
+        "S79",
+        "S71"
+      ]
+    },
+    {
+      "id": "SOL_CLOUD",
+      "lever": null,
+      "icon": "☁️",
+      "horizon": "short",
+      "cost": "low",
+      "impact": 1,
+      "title_en": "Cloud seeding (Al Ghait programme)",
+      "title_fr": "Ensemencement des nuages (programme Al Ghait)",
+      "desc_en": "Ground generators in Béni Mellal and Azilal seed suitable clouds; a centre is planned in Khénifra.",
+      "desc_fr": "Des générateurs au sol à Béni Mellal et Azilal ensemencent les nuages propices ; un centre est prévu à Khénifra.",
+      "potential_en": "163 operations nationally since 2020; no measured basin-level gain published.",
+      "potential_fr": "163 opérations au niveau national depuis 2020 ; aucun gain mesuré publié pour le bassin.",
+      "barriers_en": "Works only with the right clouds; impact hard to verify.",
+      "barriers_fr": "Ne fonctionne qu'avec les bons nuages ; impact difficile à vérifier.",
+      "confidence": "low",
+      "source_ids": [
+        "S97"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "ST_IFESFAS",
+      "province_id": "AZILAL",
+      "icon": "🚶‍♀️",
+      "quote_en": "We walk up to 8 km - three or four hours - to the only well. Its owner even stopped growing his potatoes and alfalfa so the village would not run dry.",
+      "quote_fr": "Nous marchons jusqu'à 8 km - trois ou quatre heures - jusqu'à l'unique puits. Son propriétaire a même cessé de cultiver pommes de terre et luzerne pour que le village ne manque pas d'eau.",
+      "source_ids": [
+        "S37"
+      ]
+    },
+    {
+      "id": "ST_DAILY_JOB",
+      "province_id": "BENI_MELLAL",
+      "icon": "🪣",
+      "quote_en": "Water has become a daily job: we wake before sunrise to fill buckets. We only ask for drinkable water and a road to the hospital.",
+      "quote_fr": "L'eau est devenue un travail quotidien : on se lève avant l'aube pour remplir les seaux. Nous demandons seulement de l'eau potable et une route vers l'hôpital.",
+      "source_ids": [
+        "S40"
+      ]
+    },
+    {
+      "id": "ST_MOULAY_BOUAZZA",
+      "province_id": "KHENIFRA",
+      "icon": "❓",
+      "quote_en": "Every morning the same question: is the water back? Cuts come without notice, and when it flows it is salty.",
+      "quote_fr": "Chaque matin, la même question : l'eau est-elle revenue ? Les coupures arrivent sans prévenir, et quand elle coule, elle est salée.",
+      "source_ids": [
+        "S62",
+        "S44"
+      ]
+    },
+    {
+      "id": "ST_KHOURIBGA_WELLS",
+      "province_id": "KHOURIBGA",
+      "icon": "⛽",
+      "quote_en": "During the 48-hour cut we asked villa owners with wells - and petrol stations - for a few litres of water.",
+      "quote_fr": "Pendant les 48 heures de coupure, nous demandions quelques litres d'eau aux propriétaires de villas avec puits et aux stations-service.",
+      "source_ids": [
+        "S52"
+      ]
+    },
+    {
+      "id": "ST_UPPER_FLOORS",
+      "province_id": "KHOURIBGA",
+      "icon": "🏢",
+      "quote_en": "Even when the water comes back it doesn't reach our floor - we drive out of town to fill jerrycans at wells.",
+      "quote_fr": "Même quand l'eau revient, elle n'arrive pas à notre étage - on sort de la ville remplir des bidons aux puits.",
+      "source_ids": [
+        "S60"
+      ]
+    },
+    {
+      "id": "ST_EMPTY_BOTTLES",
+      "province_id": "FQUIH_BEN_SALAH",
+      "icon": "🍶",
+      "quote_en": "We met the governor holding empty bottles. Thirst has made our life a daily hell.",
+      "quote_fr": "Nous avons accueilli le gouverneur avec des bouteilles vides. La soif a fait de notre vie un enfer quotidien.",
+      "source_ids": [
+        "S49"
+      ]
+    }
+  ]
+}

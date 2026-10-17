@@ -1,0 +1,42 @@
+<div class="atlas-story" tabindex="0" aria-roledescription="interactive 3D story">
+  <div class="stage" aria-hidden="true"></div>
+
+  <section class="narr" aria-live="polite">
+    <div class="kicker"></div>
+    <h3 class="title"></h3>
+    <p class="text"></p>
+    <div class="stats"></div>
+  </section>
+
+  <div class="monthbadge" aria-live="polite"></div>
+
+  <div class="legend">
+    <div class="legend-row"><span class="legend-label l-service"></span>
+      <span class="ramp-wrap"><span class="ramp"></span><span class="ramp-ticks"><b>12 h</b><b>18</b><b>24 h</b></span></span></div>
+    <div class="legend-row"><i class="sw dam"></i><span class="l-dam"></span></div>
+    <div class="legend-row"><i class="sw flow"></i><span class="l-flow"></span></div>
+    <div class="legend-row note l-schematic"></div>
+  </div>
+
+  <aside class="card" aria-live="polite"></aside>
+
+  <nav class="bar">
+    <button class="btn prev" type="button">‹</button>
+    <button class="btn play" type="button">▶</button>
+    <button class="btn next" type="button">›</button>
+    <div class="dots" role="tablist"></div>
+    <div class="timeline">
+      <input class="month" type="range" min="-1" max="11" step="1" value="-1">
+      <span class="month-label"></span>
+    </div>
+    <div class="seg" role="group">
+      <button type="button" data-view="before"></button>
+      <button type="button" data-view="after"></button>
+    </div>
+  </nav>
+
+  <div class="hint"></div>
+  <div class="tooltip"></div>
+  <div class="loading"><span class="spinner"></span><span class="loading-text"></span></div>
+  <div class="error"></div>
+</div>
