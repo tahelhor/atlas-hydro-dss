@@ -3,6 +3,7 @@
 **A decision-support system that explains why taps run dry in the Oum Er-Rbia basin, who is affected, and what each solution would change.**
 It takes live satellite and reanalysis data, checks every record, and runs two optimisation models. Everything is shown in a bilingual (EN/FR) dashboard, including an animated 3D story of the basin.
 
+[![Live demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://atlas-water.streamlit.app/)
 ![Python](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.66-FF4B4B?logo=streamlit&logoColor=white)
 ![PuLP / HiGHS](https://img.shields.io/badge/optimisation-PuLP%20%2B%20HiGHS-2a78d6)
@@ -13,6 +14,8 @@ It takes live satellite and reanalysis data, checks every record, and runs two o
 
 ![The basin story: the 2022 drought replayed month by month](docs/screenshots/06_story_drought_year.png)
 
+> 🌐 **Live app:** **[atlas-water.streamlit.app](https://atlas-water.streamlit.app/)**. It is free-hosted, so after a quiet period the first visit can take a minute or two while it wakes up.
+>
 > 📄 **Full analysis:** [docs/REPORT.md](docs/REPORT.md). It covers the diagnosis, the scenario results, the effect of each solution, and recommendations.
 
 ---
