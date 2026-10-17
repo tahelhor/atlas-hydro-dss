@@ -112,6 +112,15 @@ uv run streamlit run src/app/dashboard.py               # http://localhost:8501
 
 No API key is needed. The 3D story loads Three.js from jsDelivr, so it needs an internet connection; the charts work offline.
 
+### Deploy for free (Streamlit Community Cloud)
+
+The repository ships without the database. On first start the app downloads the live window and the 35-year climate archive by itself (`src/bootstrap.py`, about a minute), then refreshes stale data automatically.
+
+1. Sign in at [share.streamlit.io](https://share.streamlit.io) with GitHub and click **Create app → Deploy a public app from GitHub**.
+2. Set repository `tahelhor/atlas-hydro-dss`, branch `main`, main file path `src/app/dashboard.py`.
+3. Under **Advanced settings**, choose **Python 3.12** (required by PuLP 4). No secrets are needed.
+4. Choose an app URL and click **Deploy**. Dependencies come from `requirements.txt`.
+
 ## Project structure
 
 ```

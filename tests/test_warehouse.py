@@ -21,7 +21,8 @@ pytestmark = [
 
 @pytest.fixture(scope="module")
 def con():
-    with duckdb.connect(str(DB_PATH), read_only=True) as c:
+    # same configuration as the app's readers/writers (DuckDB refuses mixed configs in one process)
+    with duckdb.connect(str(DB_PATH)) as c:
         yield c
 
 
