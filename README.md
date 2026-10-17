@@ -164,7 +164,7 @@ There are 205 tests (`uv run pytest`). They cover:
 
 ## Licence
 
-- **Code:** [MIT](LICENSE).
+- **Code:** [MIT](LICENSE). Data licences are detailed in [NOTICE.md](NOTICE.md).
 - **Knowledge base & report** (`data/reference/bmk_knowledge_base.json`, `docs/REPORT.md`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Each entry cites its original source.
 - **Province boundaries** (`data/reference/bmk_provinces.geojson`): [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/), © OpenStreetMap contributors, via geoBoundaries.
 - **Open-Meteo data** (GloFAS, ECMWF, ERA5) is fetched at run time under CC BY 4.0 and not redistributed here.
