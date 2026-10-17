@@ -26,6 +26,15 @@ STRINGS: dict[str, tuple[str, str]] = {
     "tab_hydro": ("🌊 Hydrograph & forecast", "🌊 Hydrogramme & prévision"),
     "tab_qa": ("🛡️ Data QA & sources", "🛡️ Qualité des données & sources"),
     "warehouse_missing": ("Warehouse not found. Build it first:", "Entrepôt introuvable. Construisez-le :"),
+    "boot_first": ("First start: downloading live Copernicus/ECMWF data and 35 years of climate "
+                   "history (about a minute)…",
+                   "Premier démarrage : téléchargement des données Copernicus/ECMWF et de 35 ans "
+                   "d'historique climatique (environ une minute)…"),
+    "boot_refresh": ("Checking data freshness…", "Vérification de la fraîcheur des données…"),
+    "boot_failed": ("The data could not be downloaded (no connection to Open-Meteo?). Retry later "
+                    "or build the warehouse locally:",
+                    "Les données n'ont pas pu être téléchargées (pas de connexion à Open-Meteo ?). "
+                    "Réessayez plus tard ou construisez l'entrepôt localement :"),
     # ---- live KPI ribbon
     "kpi_storage": ("Basin storage now", "Réserves du bassin"),
     "kpi_storage_sub": ("{pct:.1f}% of {cap:,.0f} Mm³ capacity", "{pct:.1f}% de {cap:,.0f} Mm³"),

@@ -9,6 +9,7 @@ Tabs: 🚰 water crisis (problems → causes → solutions) · 🧪 solutions si
 from __future__ import annotations
 
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
@@ -16,7 +17,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 import polars as pl  # noqa: E402
 import streamlit as st  # noqa: E402
 
-from src import warehouse  # noqa: E402
+from src import bootstrap, warehouse  # noqa: E402
 from src.app import i18n  # noqa: E402
 from src.app.i18n import t  # noqa: E402
 from src.app.ui import GOOD, WARNING, inject_css, kpi  # noqa: E402
@@ -80,8 +81,21 @@ with st.sidebar:
     if st.session_state.get("lang") is None:  # segmented control can be cleared
         st.session_state["lang"] = "en"
 
-if not DB_PATH.exists():
-    st.error(t("warehouse_missing") + "\n\n`uv run python -m src.ingestion.fetch_hydro_climate`\n\n"
+@st.cache_resource(ttl=3600, show_spinner=False)
+def provision_data(_hour: str) -> list[str]:
+    """Build or refresh the warehouse at most once per hour per server process (hosted runs ship
+    without the database). Concurrent sessions wait on the same call instead of racing."""
+    return bootstrap.ensure_warehouse()
+
+
+_status = bootstrap.warehouse_status()
+_first_start = _status["live_age_h"] is None or _status["history_age_days"] is None
+try:
+    with st.spinner(t("boot_first") if _first_start else t("boot_refresh"), show_time=True):
+        provision_data(datetime.now(timezone.utc).strftime("%Y-%m-%dT%H"))
+except Exception as exc:  # no usable data and the APIs are unreachable
+    st.error(t("boot_failed") + f"\n\n`{type(exc).__name__}: {str(exc)[:200]}`\n\n"
+             "`uv run python -m src.ingestion.fetch_hydro_climate`\n\n"
              "`uv run python -m src.ingestion.fetch_climate_history`")
     st.stop()
 

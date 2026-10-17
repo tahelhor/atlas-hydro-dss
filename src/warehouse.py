@@ -18,7 +18,10 @@ def _query(sql: str, db_path: Path = DB_PATH, params: list | None = None) -> pl.
         raise FileNotFoundError(
             f"{db_path} not found - run `uv run python -m src.ingestion.fetch_hydro_climate` first"
         )
-    with duckdb.connect(str(db_path), read_only=True) as con:
+    # Same (read-write) configuration as the ingestion writers: inside one process DuckDB shares
+    # a single database instance, whereas a read_only connection fails while a writer is open
+    # ("different configuration") - e.g. a visitor refreshing data on Streamlit Cloud.
+    with duckdb.connect(str(db_path)) as con:
         return con.execute(sql, params or []).pl()
 
 
