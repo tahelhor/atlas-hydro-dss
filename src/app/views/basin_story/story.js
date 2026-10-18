@@ -684,12 +684,20 @@ async function createApp(root, firstData) {
   function provinceCard(id) {
     const o = provs.get(id); if (!o) return;
     const p = o.p; const c = S.data.copy;
-    const row = (lab, b, a, unit = '', dec = 1) => `<span>${esc(lab)}</span><b>${Number(b).toFixed(dec)}${unit} → <span style="color:#43c9a2">${Number(a).toFixed(dec)}${unit}</span></b>`;
+    // before → after only when the displayed value changes; green = better, orange = worse
+    const row = (lab, b, a, { unit = '', dec = 1, higher = true, fmt = null } = {}) => {
+      const show = fmt || ((v) => `${Number(v).toFixed(dec)}${unit}`);
+      const B = show(b); const A = show(a);
+      if (B === A) return `<span>${esc(lab)}</span><b>${B}</b>`;
+      const col = (Number(a) > Number(b)) === higher ? '#43c9a2' : '#ec835a';
+      return `<span>${esc(lab)}</span><b>${B} → <span style="color:${col}">${A}</span></b>`;
+    };
+    const k = (v) => `${Math.round(v / 1000)}k`;
     S.card = id;
     showCard(`<div class="c-eyebrow">📍 ${esc(p.capital)}</div><div class="c-title">${esc(p.name)}</div>
       <div class="c-where">${Number(p.population).toLocaleString()} ${esc(c.residents)} · ${p.localShare}% ${esc(c.local_sources)}</div>
-      <div class="c-impact">${row(c.hours, p.before.annual, p.after.annual)}${row(c.worst, p.before.worst, p.after.worst, ' h', 0)}
-      ${row(c.breakdowns, p.before.breakdown, p.after.breakdown)}<span>${esc(c.no_tap)}</span><b>${Math.round(p.before.noTap / 1000)}k → <span style="color:#43c9a2">${Math.round(p.after.noTap / 1000)}k</span></b></div>`);
+      <div class="c-impact">${row(c.hours, p.before.annual, p.after.annual)}${row(c.worst, p.before.worst, p.after.worst, { unit: ' h' })}
+      ${row(c.breakdowns, p.before.breakdown, p.after.breakdown, { higher: false })}${row(c.no_tap, p.before.noTap, p.after.noTap, { higher: false, fmt: k })}</div>`);
   }
 
   // ------------------------------------------------------------------ chapters
@@ -881,7 +889,11 @@ async function createApp(root, firstData) {
       } else tooltip.style.display = 'none';
     });
   });
-  renderer.domElement.addEventListener('pointerleave', () => { tooltip.style.display = 'none'; });
+  renderer.domElement.addEventListener('pointerleave', () => {
+    // drop a hover still queued for the next frame, or it re-shows the tooltip after the pointer has left
+    if (hoverQueued) { cancelAnimationFrame(hoverQueued); hoverQueued = null; }
+    tooltip.style.display = 'none';
+  });
   renderer.domElement.addEventListener('click', (ev) => {
     const { hit } = pick(ev);
     const u = hit?.object?.userData || {};
