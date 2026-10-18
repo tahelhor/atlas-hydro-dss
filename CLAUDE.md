@@ -85,5 +85,8 @@ tests/                                conftest (synthetic payloads, httpx.MockTr
   The component definition is cached by the assets' mtimes (`_asset_signature`), so edits to the
   JS/CSS/HTML apply on the next rerun. Three.js is pinned (`THREE_VERSION`) and loaded from jsDelivr:
   offline, the story shows an error box and the Plotly charts still carry the results.
-- Chapter copy is built in Python in both languages (`build_payload`); the JS only animates.
+- Chapter copy is built in Python in both languages (`_chapters` in `simulator_map.py`); the JS only animates.
+  Every sentence is picked from the scenario's numbers (year class from rain %, dam trajectory, worst
+  province/month, trade-offs); compare the *rounded* values that are displayed, and never tone an
+  unchanged or worse metric as "good". The month badge reads `data.replayYear`, not the title.
   Tap-water colour encoding (story + calendar heatmap): diverging red → grey (20.5 h) → blue (24 h).

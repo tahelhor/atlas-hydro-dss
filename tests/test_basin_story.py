@@ -118,6 +118,54 @@ def test_no_solutions_invites_instead_of_fake_change(world):
     assert change["stats"] == [] and p["levers"] == []
 
 
+def _chapters(payload: dict) -> dict:
+    return {c["id"]: c for c in payload["chapters"]}
+
+
+def test_drought_copy_follows_the_numbers(payload):
+    ch = _chapters(payload)
+    assert ch["drought"]["title"].startswith("2021-22") and "drought" in ch["drought"]["title"]
+    assert "58% to 33%" in ch["drought"]["text"]  # dam trajectory over the replayed year
+    assert "14.5 h in July" in ch["who"]["text"]  # worst month named, not rounded to 14
+    assert payload["replayYear"] == 2022  # month badge: Sep 2021 ... Aug 2022
+    assert all(s["tone"] == "good" for s in ch["change"]["stats"])
+
+
+def test_wet_year_is_not_told_as_a_drought(world):
+    from src.app.views.simulator_map import build_payload
+    from src.models.regional_planner import PlannerScenario, SolutionLevers, build_year_inputs, solve
+    from src.region.diagnostics import load_climate_monthly, load_discharge_monthly
+
+    wet = build_year_inputs(2010, load_discharge_monthly(), load_climate_monthly())
+    base = solve(PlannerScenario(2010, FILLS), wet)
+    ch = _chapters(build_payload(base, base, SolutionLevers(), wet, {}))
+    assert "wet" in ch["drought"]["title"] and "only" not in ch["drought"]["text"]
+    assert "refill" in ch["drought"]["text"]
+    assert "run dry" not in ch["who"]["title"] and "fragile" in ch["who"]["title"]
+    assert "beyond its recharge" not in ch["flows"]["text"]
+
+
+@pytest.mark.parametrize("lever, tone, phrase", [
+    ("desal_mm3", "", "doesn't change"),  # water kept upstream never reaches the towns that run short
+    ("rural_connection_pct", "warn", "Trade-off"),  # new taps share the same springs and wells
+])
+def test_unchanged_or_worse_is_not_shown_as_a_gain(world, lever, tone, phrase):
+    from src.app.views.simulator_map import build_payload
+    from src.models.regional_planner import PlannerScenario, SolutionLevers, solve
+
+    inp, base, *_ = world
+    lv = SolutionLevers(**{lever: float(FULL[lever])})
+    sol = solve(PlannerScenario(2022, FILLS, lv), inp)
+    change = _chapters(build_payload(base, sol, lv, inp, {lever: sol}))["change"]
+    assert change["stats"][0]["tone"] == tone
+    assert phrase in change["text"]
+
+
+def test_second_source_card_counts_residents_taken_off_a_single_pipe(payload):
+    card = next(lv for lv in payload["levers"] if lv["key"] == "backup_source_pct")
+    assert card["improves"]
+
+
 def test_payload_and_step_are_fast(world):
     from src.app.views.simulator_map import build_payload
     from src.models.regional_planner import PlannerScenario, SolutionLevers, solve

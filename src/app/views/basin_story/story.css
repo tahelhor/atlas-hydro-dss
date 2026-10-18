@@ -8,7 +8,7 @@
   outline: none; border: 1px solid #2c2c2a; user-select: none;
 }
 .atlas-story *, .atlas-story *::before, .atlas-story *::after { box-sizing: border-box; }
-.stage { position: absolute; inset: 0; }
+.stage { position: absolute; inset: 0; z-index: 0; }  /* own stacking context: CSS2D label z-indexes stay under the cards */
 .stage canvas { display: block; width: 100%; height: 100%; touch-action: none; cursor: grab; }
 .stage canvas:active { cursor: grabbing; }
 .labels { position: absolute; inset: 0; pointer-events: none; }

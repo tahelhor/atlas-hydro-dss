@@ -9,3 +9,4 @@ data/*.duckdb.wal
 .DS_Store
 .idea/
 .vscode/
+marketing/

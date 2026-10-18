@@ -657,7 +657,7 @@ async function createApp(root, firstData) {
     const badge = $('.monthbadge');
     badge.classList.toggle('on', S.month >= 0);
     if (S.month >= 0) {
-      const year = Number(String(S.data.chapters[1].title).match(/\d{4}/)?.[0] || 0);
+      const year = Number(S.data.replayYear || 0);  // Sep-Dec belong to the previous calendar year
       const y = S.month < 4 ? year - 1 : year;
       badge.innerHTML = `<small>${esc(S.view === 'after' && id !== 'drought' ? S.data.copy.after : S.data.copy.before)}</small>${esc(name)} ${y || ''}`;
     }
